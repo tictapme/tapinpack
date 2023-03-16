@@ -1,5 +1,4 @@
 /backups
-/static
 /letsencrypt
 /.idea/
 /proxy/certs/*.pem
