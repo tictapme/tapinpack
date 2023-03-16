@@ -41,6 +41,7 @@ wp-config.php
 # uncomment the next line
 #/wp-content/plugins
 /wp-content/plugins/simply-static/static-files/
+/wp-content/plugins/simply-static/debug.txt
 
 # All themes
 #
