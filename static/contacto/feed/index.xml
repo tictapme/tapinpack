@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comentarios en: Contacto	</title>
+	Comments on: Contacto	</title>
 	<atom:link href="/contacto/feed/" rel="self" type="application/rss+xml" />
 	<link>/contacto/</link>
 	<description>Etiquetaje digital</description>
