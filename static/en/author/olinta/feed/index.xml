@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Tapinpack by tictap</title>
-	<atom:link href="/en/feed/" rel="self" type="application/rss+xml" />
-	<link>/en/</link>
+	<title>olinta, autor en Tapinpack by tictap</title>
+	<atom:link href="/en/author/olinta/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/olinta/</link>
 	<description>Etiquetaje digital</description>
 	<lastBuildDate>Fri, 17 Mar 2023 09:50:12 +0000</lastBuildDate>
 	<language>en-US</language>
