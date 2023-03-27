@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comentarios en Tapinpack by tictap	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comentarios en: Política de privacidad	</title>
+	<atom:link href="/politica-privacidad/feed/" rel="self" type="application/rss+xml" />
+	<link>/politica-privacidad/</link>
 	<description>Etiquetaje digital</description>
-	<lastBuildDate>Mon, 27 Mar 2023 04:48:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Mar 2023 13:01:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
