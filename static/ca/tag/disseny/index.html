@@ -88,7 +88,7 @@ img.emoji {
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}</style>
 <link rel="stylesheet" id="wpml-blocks-css" href="/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.0" media="all">
 <link rel="stylesheet" id="wpml-legacy-horizontal-list-0-css" href="/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1" media="all">
-<link rel="stylesheet" id="uag-style-37-css" href="/wp-content/uploads/uag-plugin/assets/0/uag-css-37-1683543236.css?ver=2.4.2" media="all">
+<link rel="stylesheet" id="uag-style-37-css" href="/wp-content/uploads/uag-plugin/assets/0/uag-css-37-1683279699.css?ver=2.4.2" media="all">
 <!--[if IE]>
 <script src='/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.0.2' id='astra-flexibility-js'></script>
 <script id='astra-flexibility-js-after'>
@@ -107,43 +107,19 @@ flexibility(document.documentElement);
 <meta name="generator" content="WPML ver:4.6.0 stt:8,1,2;">
 <!-- start Simple Custom CSS and JS -->
 <style>/* Campaña de feria Mayo 2023*/
-.uagb-block-ac04cc6e{
+.page-id-1627 .ast-container{
     flex-grow: 1;
     max-width: 100%;
     background-color: var(--ast-global-color-2);
-	background-color: white !important;
+	background-color: white;
 	background-image: url("/wp-content/uploads/2023/05/background_.svg");
 	background-repeat: no-repeat;
-	 background-position: center 11em;
-	padding-bottom:2em !important;
-	background-size:cover;
-	
+	 background-position: center bottom;
 }
-
-input[type="radio"] {
-  -ms-transform: scale(1.5); /* IE 9 */
-  -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
-  transform: scale(1.5);
-	border: 2px solid var(--ast-global-color-0);
-}
-
-.texto-inicial{
-	font-family: 'Varela Round',sans-serif;
-    line-height: 1.25em;
-}
-
-.video-mobil{
-	margin: 2em auto;
-	display: block;
-}
-/*****RESPONSIVE****/
+/*****FORM****/
 @media only screen and (max-width: 600px) {
-	
-	.texto-inicial{
-		margin: 0.5em 10%;
-	}
 .page-id-1627 .entry-content > .wp-block-columns{
-	padding-left: 0em !important;
+	padding-left: 0!important;
 }
 	.page-id-1627 .ast-container{
 		padding: 0!important;
@@ -154,28 +130,13 @@ input[type="radio"] {
 		
 	}
 	
-	.page-id-1627 #form-button{
-		width:220px;
-		height:45px;
-		    margin: 0 auto;
-    display: block;
-	}
-	
-	.uagb-block-ac04cc6e{
-		background-image:none;
-	}
-
-
 }
-/*****end****/
+/*****end Form****/
 
 
 .page-id-1627 .wp-container-7{
 	width: unset !important;
 }
-
-
-
 
 
 .page-id-1627 .ast-grid-right-section{
@@ -317,11 +278,6 @@ background: linear-gradient(90deg, rgba(234,106,158,1) 0%, rgba(93,95,239,1) 100
     flex-direction: column;
     gap: 0.4em;
 }
-
-.form-limit{
-	position: relative;
-}
-
 #form-button{
   width: fit-content;
 }
@@ -332,11 +288,15 @@ background: linear-gradient(90deg, rgba(234,106,158,1) 0%, rgba(93,95,239,1) 100
   z-index:1;
   text-align: center;
   background-color: white;
-    height:100%;
- max-width: 100%;
+    height: 90%;
+ width: 700px;
 }
 
-
+.post-message-success .contact-form, .post-message-fail .contact-form{
+	height: 625px;
+    width: 700px;
+	background-color: var(--ast-global-color-4);
+}
 
 
 .post-message-success-fail-img img{
@@ -408,44 +368,49 @@ input[type=checkbox]:checked::before {
 }</style>
 <!-- end Simple Custom CSS and JS -->
 <!-- start Simple Custom CSS and JS -->
-<script>(function ($) {
-    $(document).ready(function () {
-        //Act on every form on the page
-        $("form").each(function () {
-			var form = $(this);	
-            //enable/disable sumbit button depending on terms checkbox
-            form.find('#termsCheckbox').on("change", function () {
-                form.find('#form-button').attr("disabled", !$(this).is(':checked'));
-            });
+<script>jQuery(document).ready(function( $ ){
+	formInit();
+	
+ $('form').on("submit", function(e) {
+    e.preventDefault(); 
+    submitForm( $(this));
+  });
+});
 
-            //capture submission
-            form.on("submit", function () {
+function submitForm(form) {
 
-                $.ajax({
-                    type: 'post',
-                    url: '/post-contact',
-                    data: form.serializeArray(),
-                    success: function (data) {
+    jQuery.ajax({
+        type: 'post',
+        url: '/post-contact',
+        data: form.serializeArray(),
+        success: function (data) {
+			
+			jQuery('.post-message-success').attr('style',  'display:block');
+			form.trigger("reset");
+			setTimeout(function(){jQuery('.post-message-success').attr('style',  'display:none')}, 4000);
+        },
+		error: function(data){
+			jQuery('.post-message-fail').attr('style',  'display:block');
+			setTimeout(function(){jQuery('.post-message-fail').attr('style',  'display:none')}, 4000);
+		}
+    });
+	
+    return false;
+};
 
-                        $('.post-message-success').attr('style', 'display:block');
-                        form.trigger("reset");
-                        setTimeout(function () {
-                            $('.post-message-success').attr('style', 'display:none')
-                        }, 4000);
-                    },
-                    error: function (data) {
-                        $('.post-message-fail').attr('style', 'display:block');
-                        setTimeout(function () {
-                            $('.post-message-fail').attr('style', 'display:none')
-                        }, 4000);
-                    }
-                });
+    function formInit() {
+        const form = document.getElementById("contactForm");
+        const termsCheckbox = document.getElementById("termsCheckbox");
+        const submitButton = document.getElementById("form-button");
 
-                return false;
-            });
+        termsCheckbox.addEventListener("change", function () {
+            if (termsCheckbox.checked) {
+                submitButton.disabled = false;
+            } else {
+                submitButton.disabled = true;
+            }
         });
-    })
-})(jQuery);</script>
+    };</script>
 <!-- end Simple Custom CSS and JS -->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-983HTVV1T3"></script>
@@ -500,15 +465,8 @@ input[type=checkbox]:checked::before {
 #colophon{
 	z-index:10;
 }
-@media only screen and (max-width: 600px) {
-#block-8 img{
-	margin-left:1em;
-	}
-	#block-45, #block-44, #block-62{
-		margin-left:1.5em;
-		text-align:center;
-	}
-}
+
+
 .site-primary-footer-wrap[data-section="section-primary-footer-builder"] {
 	border-top-color: white;
 }
@@ -933,7 +891,7 @@ transform: rotate(-31.01deg);
 											<div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
 							<aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-1" aria-label="Footer Widget 1">
 			<section id="block-8" class="widget widget_block widget_media_image">
-<figure class="wp-block-image alignleft size-full is-resized"><img decoding="async" src="/wp-content/uploads/2023/02/Main-logo.png" alt="" class="wp-image-9" width="227" height="73" srcset="/wp-content/uploads/2023/02/Main-logo.png 254w, /wp-content/uploads/2023/02/Main-logo-210x68.png 210w" sizes="(max-width: 227px) 100vw, 227px"></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2023/02/Main-logo.png" alt="" class="wp-image-9" width="227" height="73" srcset="/wp-content/uploads/2023/02/Main-logo.png 254w, /wp-content/uploads/2023/02/Main-logo-210x68.png 210w" sizes="(max-width: 227px) 100vw, 227px"></figure>
 </section>		</aside>
 						</div>
 											<div class="site-footer-primary-section-2 site-footer-section site-footer-section-2">
@@ -946,9 +904,9 @@ transform: rotate(-31.01deg);
 											<div class="site-footer-primary-section-3 site-footer-section site-footer-section-3">
 							<aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-3" aria-label="Footer Widget 3">
 			<section id="block-45" class="widget widget_block">
-<h4 class="has-text-align-left">Enlaces de interés</h4>
+<h4>Enlaces de interés</h4>
 </section><section id="block-44" class="widget widget_block">
-<div class="is-content-justification-left is-layout-flex wp-container-1 wp-block-buttons">
+<div class="is-layout-flex wp-block-buttons">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://tapinpack-admin.tictap.me/#/login">Login</a></div>
 </div>
 </section><section id="block-62" class="widget widget_block"><a style="color:var(--ast-global-color-0); font-size:18px;" href="/legal/">Politica de Privacidad</a> y <a style="color:var(--ast-global-color-0); font-size:18px;" href="/cookies/">Cookies</a></section>		</aside>
@@ -979,8 +937,7 @@ transform: rotate(-31.01deg);
                 <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"></path>
                 </svg></span>	<span class="screen-reader-text">Scroll to Top</span>
 </div>
-<style id="core-block-supports-inline-css">.wp-block-buttons.wp-container-1{justify-content:flex-start;}</style>
-<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"\/wp-admin\/","rest_rootURL":"\/ca\/wp-json\/","ajax_url":"\/wp-admin\/admin-ajax.php","nft_nonce":"819a104021"};</script>
+<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"\/wp-admin\/","rest_rootURL":"\/ca\/wp-json\/","ajax_url":"\/wp-admin\/admin-ajax.php","nft_nonce":"6729615086"};</script>
 <script src="/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=4.0.8" id="essential-blocks-blocks-localize-js"></script>
 <script id="astra-theme-js-js-extra">var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_top":"1"};</script>
 <script src="/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.0.2" id="astra-theme-js-js"></script>
