@@ -2,7 +2,27 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/</loc>
-		<lastmod>2023-03-13T12:31:50+00:00</lastmod>
+		<lastmod>2023-03-02T12:50:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WINE-BOOLE.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WINE-BOOLE.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/</loc>
+		<lastmod>2023-03-02T12:50:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WINE-BOOLE.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WINE-BOOLE.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/</loc>
+		<lastmod>2023-03-17T09:05:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/WINE-BOOLE.png</image:loc>
 		</image:image>
@@ -12,19 +32,119 @@
 	</url>
 	<url>
 		<loc>/que-es-nutriscore/</loc>
-		<lastmod>2023-03-15T11:18:36+00:00</lastmod>
+		<lastmod>2023-03-22T12:04:52+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/nutriscore.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/compras-nutriscore.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Nutri_Score.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/que-informacion-deben-mostrar-las-bebidas-alcoholicas-en-la-union-europea/</loc>
-		<lastmod>2023-03-15T11:29:54+00:00</lastmod>
+		<loc>/la-importancia-del-diseno-en-las-etiquetas-de-vino/</loc>
+		<lastmod>2023-04-24T09:23:01+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/allergies.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/Design.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ventajas-del-etiquetado-digital-frente-al-etiquetado-tradicional/</loc>
+		<lastmod>2023-04-24T09:25:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/botellas-normas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/claves-para-un-buen-etiquetado/</loc>
+		<lastmod>2023-04-24T10:25:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/claves-para-un-buen-etiquetado/</loc>
+		<lastmod>2023-04-24T10:30:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/la-importancia-del-diseno-en-las-etiquetas-de-vino/</loc>
+		<lastmod>2023-04-24T10:30:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Design.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/la-importancia-del-diseno-en-las-etiquetas-de-vino/</loc>
+		<lastmod>2023-04-24T10:31:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Design.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/que-informacion-deben-mostrar-las-bebidas-alcoholicas-en-la-union-europea/</loc>
+		<lastmod>2023-04-24T10:33:13+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/ampolles.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/que-informacion-deben-mostrar-las-bebidas-alcoholicas-en-la-union-europea/</loc>
+		<lastmod>2023-04-24T10:33:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/ampolles.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/que-informacion-deben-mostrar-las-bebidas-alcoholicas-en-la-union-europea/</loc>
+		<lastmod>2023-04-24T10:34:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/ampolles.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/claves-para-un-buen-etiquetado/</loc>
+		<lastmod>2023-04-24T10:38:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ventajas-del-etiquetado-digital-frente-al-etiquetado-tradicional/</loc>
+		<lastmod>2023-04-24T10:39:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/botellas-normas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ventajas-del-etiquetado-digital-frente-al-etiquetado-tradicional/</loc>
+		<lastmod>2023-04-24T10:40:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/botellas-normas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/que-aditivos-estan-sujetos-al-etiquetado/</loc>
+		<lastmod>2023-05-08T10:28:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/aditivos.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/deben-actualizarse-las-etiquetas-para-cumplir-con-el-nuevo-reglamentotiene-caracter-retroactivo/</loc>
+		<lastmod>2023-05-08T10:29:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/barricas.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

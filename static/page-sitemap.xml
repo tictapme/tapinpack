@@ -2,42 +2,57 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-03-16T11:18:00+00:00</lastmod>
+		<lastmod>2023-05-08T11:26:06+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/mockup_flat2-home.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/icono_multiidioma.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Group-173appless.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/languageTapinpack.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/icono_personalizable.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/fastTapinpack.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Pas1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/personaTapinpack.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Pas2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/Step1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Pas2.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Pas3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/marketing.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/analytics.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/VR.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/marketing.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/API.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/FrameinformesAnaliticas.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Call2Action_2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/FramerealidadAumentada.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/PlataformasExternas.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/platform-mockup-pink.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -54,32 +69,76 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/blog/</loc>
+		<lastmod>2023-02-22T11:31:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/</loc>
+		<lastmod>2023-03-27T10:35:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/</loc>
+		<lastmod>2023-03-27T11:03:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/</loc>
+		<lastmod>2023-03-27T11:05:06+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/contacto/</loc>
-		<lastmod>2023-02-22T09:22:37+00:00</lastmod>
+		<lastmod>2023-04-25T12:56:06+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/contact_phone.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/phone.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/contact-form.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/email.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/contact_address.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/address.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contacto/</loc>
+		<lastmod>2023-04-26T10:38:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/phone.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/email.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/address.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-02-22T11:31:05+00:00</lastmod>
+		<lastmod>2023-04-26T10:45:02+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/mockup_flat2-home.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/icono_multiidioma.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Group-173appless.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/languageTapinpack.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/icono_personalizable.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/fastTapinpack.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/personaTapinpack.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Pas1.png</image:loc>
@@ -91,101 +150,144 @@
 			<image:loc>/wp-content/uploads/2023/03/Pas3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/marketing.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/analytics.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/VR.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/marketing.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/API.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/FrameinformesAnaliticas.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/FramerealidadAumentada.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/PlataformasExternas.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Call2Action_2.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/blog/</loc>
-		<lastmod>2023-02-22T11:31:05+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blog/</loc>
-		<lastmod>2023-02-22T11:31:05+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blog/</loc>
-		<lastmod>2023-02-22T11:31:05+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blog/</loc>
-		<lastmod>2023-03-13T11:07:20+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/contacto/</loc>
-		<lastmod>2023-03-15T14:17:15+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/contact_phone.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/contact-form.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/contact_address.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-03-16T12:11:08+00:00</lastmod>
+		<lastmod>2023-04-26T10:57:01+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/mockup_flat2-home.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/icono_multiidioma.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Group-173appless.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/languageTapinpack.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/icono_personalizable.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/fastTapinpack.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/personaTapinpack.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Pas1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Pas2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/Pas2.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Pas3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/marketing.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/analytics.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/VR.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/marketing.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/API.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/FrameinformesAnaliticas.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/FramerealidadAumentada.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/PlataformasExternas.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Call2Action_2.png</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/contacto/</loc>
-		<lastmod>2023-03-16T12:17:44+00:00</lastmod>
+		<lastmod>2023-04-26T11:07:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/contact_phone.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/phone.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/contact-form.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/email.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/contact_address.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/address.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/legal/</loc>
+		<lastmod>2023-05-03T09:01:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/legal/</loc>
+		<lastmod>2023-05-08T11:00:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cookies/</loc>
+		<lastmod>2023-05-08T11:03:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/legal/</loc>
+		<lastmod>2023-05-08T11:04:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cookies/</loc>
+		<lastmod>2023-05-08T11:05:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cumple-con-el-reglamento-europeo/</loc>
+		<lastmod>2023-05-08T11:26:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Icono_paso1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Icono_paso2.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Icono_paso3.svg</image:loc>
 		</image:image>
 	</url>
 </urlset>
