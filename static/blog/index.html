@@ -89,9 +89,9 @@ img.emoji {
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}</style>
 <link rel="stylesheet" id="wpml-blocks-css" href="/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.0" media="all">
-<link rel="stylesheet" id="eb-block-style-10-css" href="/wp-content/uploads/eb-style/eb-style-10.min.css?ver=2ad3e5f8d5" media="all">
+<link rel="stylesheet" id="eb-block-style-10-css" href="/wp-content/uploads/eb-style/eb-style-10.min.css?ver=b792962b71" media="all">
 <link rel="stylesheet" id="wpml-legacy-horizontal-list-0-css" href="/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1" media="all">
-<link rel="stylesheet" id="uag-style-10-css" href="/wp-content/uploads/uag-plugin/assets/0/uag-css-10-1682507342.css?ver=2.4.2" media="all">
+<link rel="stylesheet" id="uag-style-10-css" href="/wp-content/uploads/uag-plugin/assets/0/uag-css-10-1683543193.css?ver=2.4.2" media="all">
 <!--[if IE]>
 <script src='/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.0.2' id='astra-flexibility-js'></script>
 <script id='astra-flexibility-js-after'>
@@ -111,6 +111,100 @@ flexibility(document.documentElement);
 <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fblog%2F">
 <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fblog%2F#038;format=xml">
 <meta name="generator" content="WPML ver:4.6.0 stt:8,1,2;">
+<!-- start Simple Custom CSS and JS -->
+<style>/* Campaña de feria Mayo 2023*/
+.uagb-block-ac04cc6e{
+    flex-grow: 1;
+    max-width: 100%;
+    background-color: var(--ast-global-color-2);
+	background-color: white !important;
+	background-image: url("/wp-content/uploads/2023/05/background_.svg");
+	background-repeat: no-repeat;
+	 background-position: center 11em;
+	padding-bottom:2em !important;
+	background-size:cover;
+	
+}
+
+input[type="radio"] {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+  transform: scale(1.5);
+	border: 2px solid var(--ast-global-color-0);
+}
+
+.texto-inicial{
+	font-family: 'Varela Round',sans-serif;
+    line-height: 1.25em;
+}
+
+.video-mobil{
+	margin: 2em auto;
+	display: block;
+}
+/*****RESPONSIVE****/
+@media only screen and (max-width: 600px) {
+	
+	.texto-inicial{
+		margin: 0.5em 10%;
+	}
+.page-id-1627 .entry-content > .wp-block-columns{
+	padding-left: 0em !important;
+}
+	.page-id-1627 .ast-container{
+		padding: 0!important;
+	}
+	.page-id-1627 .form-container{
+		margin:0 !important;
+		padding: 0.4em!important;
+		
+	}
+	
+	.page-id-1627 #form-button{
+		width:220px;
+		height:45px;
+		    margin: 0 auto;
+    display: block;
+	}
+	
+	.uagb-block-ac04cc6e{
+		background-image:none;
+	}
+
+
+}
+/*****end****/
+
+
+.page-id-1627 .wp-container-7{
+	width: unset !important;
+}
+
+
+
+
+
+.page-id-1627 .ast-grid-right-section{
+	display: none;
+}
+
+.ast-plain-container.ast-no-sidebar .entry-content > .alignfull{
+	background-color:#EFEEFC;
+}
+
+.page-id-1627 #masthead .ast-container{
+	background-color:white;
+	background-image:none;
+	
+	
+}
+.page-id-1627 .site-header-primary-section-center{
+display: none !important;
+}
+.page-id-1627 .site-header-primary-section-right-center{
+display: none !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->
 <!-- start Simple Custom CSS and JS -->
 <style>/***** first set *******/
 
@@ -229,6 +323,11 @@ background: linear-gradient(90deg, rgba(234,106,158,1) 0%, rgba(93,95,239,1) 100
     flex-direction: column;
     gap: 0.4em;
 }
+
+.form-limit{
+	position: relative;
+}
+
 #form-button{
   width: fit-content;
 }
@@ -239,15 +338,11 @@ background: linear-gradient(90deg, rgba(234,106,158,1) 0%, rgba(93,95,239,1) 100
   z-index:1;
   text-align: center;
   background-color: white;
-    height: 90%;
- width: 700px;
+    height:100%;
+ max-width: 100%;
 }
 
-.post-message-success .contact-form, .post-message-fail .contact-form{
-	height: 625px;
-    width: 700px;
-	background-color: var(--ast-global-color-4);
-}
+
 
 
 .post-message-success-fail-img img{
@@ -417,10 +512,18 @@ function submitForm(form) {
 #colophon{
 	z-index:10;
 }
-
-
-
-
+@media only screen and (max-width: 600px) {
+#block-8 img{
+	margin-left:1em;
+	}
+	#block-45, #block-44, #block-62{
+		margin-left:1.5em;
+		text-align:center;
+	}
+}
+.site-primary-footer-wrap[data-section="section-primary-footer-builder"] {
+	border-top-color: white;
+}
 /*buttons*/
 
 
@@ -560,6 +663,25 @@ background: #5D5FEF !important;
 border-radius: 48px;
 border: none !important;color: #FFFFFF !important;
 	
+}
+
+
+
+
+.form-container{
+	background: #FFFFFF;
+box-shadow: 5px 4px 36px rgba(0, 0, 0, 0.15);
+border-radius: 20px;
+	width: fit-content;
+	margin:1em;
+	padding:1em;
+}
+
+.form-container form{
+	display: flex;
+	flex-direction:row;
+	max-width:20em;
+	flex-wrap:wrap;
 }
 
 /*overides*/
@@ -809,9 +931,27 @@ transform: rotate(-31.01deg);
 
 
 
-			<div class="wp-block-uagb-post-grid uagb-post-grid  uagb-post__image-position-top uagb-post__image-enabled uagb-block-2f0c8168     uagb-post__items uagb-post__columns-3 is-grid uagb-post__columns-tablet-2 uagb-post__columns-mobile-1 uagb-post__equal-height" data-total="1">
+			<div class="wp-block-uagb-post-grid uagb-post-grid  uagb-post__image-position-top uagb-post__image-enabled uagb-block-2f0c8168     uagb-post__items uagb-post__columns-3 is-grid uagb-post__columns-tablet-2 uagb-post__columns-mobile-1 uagb-post__equal-height" data-total="2">
 
 												<article class="uagb-post__inner-wrap">								<div class="uagb-post__image">
+									<a href="/deben-actualizarse-las-etiquetas-para-cumplir-con-el-nuevo-reglamentotiene-caracter-retroactivo/" target="_self" rel="bookmark noopener noreferrer" class="uagb-image-ratio-inherit"><img width="561" height="285" src="/wp-content/uploads/2023/05/barricas.png" class="attachment-large size-large" alt="" decoding="async" srcset="/wp-content/uploads/2023/05/barricas.png 561w, /wp-content/uploads/2023/05/barricas-300x152.png 300w" sizes="(max-width: 561px) 100vw, 561px">					</a>
+							</div>
+						<h4 class="uagb-post__title uagb-post__text">
+				<a href="/deben-actualizarse-las-etiquetas-para-cumplir-con-el-nuevo-reglamentotiene-caracter-retroactivo/" target="_self" rel="bookmark noopener noreferrer">¿Deben actualizarse las etiquetas para cumplir con el nuevo reglamento?¿Tiene carácter retroactivo?</a>
+			</h4>
+						<div class="uagb-post__text uagb-post-grid-byline">
+							</div>
+												</article>
+																<article class="uagb-post__inner-wrap">								<div class="uagb-post__image">
+									<a href="/que-aditivos-estan-sujetos-al-etiquetado/" target="_self" rel="bookmark noopener noreferrer" class="uagb-image-ratio-inherit"><img width="561" height="285" src="/wp-content/uploads/2023/05/aditivos.png" class="attachment-large size-large" alt="" decoding="async" srcset="/wp-content/uploads/2023/05/aditivos.png 561w, /wp-content/uploads/2023/05/aditivos-300x152.png 300w" sizes="(max-width: 561px) 100vw, 561px">					</a>
+							</div>
+						<h4 class="uagb-post__title uagb-post__text">
+				<a href="/que-aditivos-estan-sujetos-al-etiquetado/" target="_self" rel="bookmark noopener noreferrer">¿Qué aditivos están sujetos al etiquetado?</a>
+			</h4>
+						<div class="uagb-post__text uagb-post-grid-byline">
+							</div>
+												</article>
+																<article class="uagb-post__inner-wrap">								<div class="uagb-post__image">
 									<a href="/claves-para-un-buen-etiquetado/" target="_self" rel="bookmark noopener noreferrer" class="uagb-image-ratio-inherit"><img width="561" height="285" src="/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg" class="attachment-large size-large" alt="Bottle with blank question mark. By Dagnele at Pixabay" decoding="async" srcset="/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg 561w, /wp-content/uploads/2023/04/dagnele-en-Pixabay-wine-300x152.jpg 300w" sizes="(max-width: 561px) 100vw, 561px">					</a>
 							</div>
 						<h4 class="uagb-post__title uagb-post__text">
@@ -847,24 +987,6 @@ transform: rotate(-31.01deg);
 						<div class="uagb-post__text uagb-post-grid-byline">
 							</div>
 												</article>
-																<article class="uagb-post__inner-wrap">								<div class="uagb-post__image">
-									<a href="/que-es-nutriscore/" target="_self" rel="bookmark noopener noreferrer" class="uagb-image-ratio-inherit"><img width="561" height="285" src="/wp-content/uploads/2023/03/compras-nutriscore.png" class="attachment-large size-large" alt="" decoding="async" srcset="/wp-content/uploads/2023/03/compras-nutriscore.png 561w, /wp-content/uploads/2023/03/compras-nutriscore-300x152.png 300w" sizes="(max-width: 561px) 100vw, 561px">					</a>
-							</div>
-						<h4 class="uagb-post__title uagb-post__text">
-				<a href="/que-es-nutriscore/" target="_self" rel="bookmark noopener noreferrer">¿Qué es NUTRISCORE?</a>
-			</h4>
-						<div class="uagb-post__text uagb-post-grid-byline">
-							</div>
-												</article>
-																<article class="uagb-post__inner-wrap">								<div class="uagb-post__image">
-									<a href="/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/" target="_self" rel="bookmark noopener noreferrer" class="uagb-image-ratio-inherit"><img width="561" height="285" src="/wp-content/uploads/2023/03/WINE-BOOLE.png" class="attachment-large size-large" alt="" decoding="async" srcset="/wp-content/uploads/2023/03/WINE-BOOLE.png 561w, /wp-content/uploads/2023/03/WINE-BOOLE-300x152.png 300w" sizes="(max-width: 561px) 100vw, 561px">					</a>
-							</div>
-						<h4 class="uagb-post__title uagb-post__text">
-				<a href="/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/" target="_self" rel="bookmark noopener noreferrer">¿Qué debes saber sobre el nuevo etiquetado de las bebidas alcohólicas?</a>
-			</h4>
-						<div class="uagb-post__text uagb-post-grid-byline">
-							</div>
-												</article>
 											</div>
 			</div>
 </div>
@@ -896,7 +1018,7 @@ transform: rotate(-31.01deg);
 											<div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
 							<aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-1" aria-label="Footer Widget 1">
 			<section id="block-8" class="widget widget_block widget_media_image">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="/wp-content/uploads/2023/02/Main-logo.png" alt="" class="wp-image-9" width="227" height="73" srcset="/wp-content/uploads/2023/02/Main-logo.png 254w, /wp-content/uploads/2023/02/Main-logo-210x68.png 210w" sizes="(max-width: 227px) 100vw, 227px"></figure>
+<figure class="wp-block-image alignleft size-full is-resized"><img decoding="async" src="/wp-content/uploads/2023/02/Main-logo.png" alt="" class="wp-image-9" width="227" height="73" srcset="/wp-content/uploads/2023/02/Main-logo.png 254w, /wp-content/uploads/2023/02/Main-logo-210x68.png 210w" sizes="(max-width: 227px) 100vw, 227px"></figure>
 </section>		</aside>
 						</div>
 											<div class="site-footer-primary-section-2 site-footer-section site-footer-section-2">
@@ -909,12 +1031,12 @@ transform: rotate(-31.01deg);
 											<div class="site-footer-primary-section-3 site-footer-section site-footer-section-3">
 							<aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-3" aria-label="Footer Widget 3">
 			<section id="block-45" class="widget widget_block">
-<h4>Enlaces de interés</h4>
+<h4 class="has-text-align-left">Enlaces de interés</h4>
 </section><section id="block-44" class="widget widget_block">
-<div class="is-layout-flex wp-block-buttons">
+<div class="is-content-justification-left is-layout-flex wp-container-3 wp-block-buttons">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://tapinpack-admin.tictap.me/#/login">Login</a></div>
 </div>
-</section><section id="block-62" class="widget widget_block"><a style="color:var(--ast-global-color-0); font-size:18px;" href="/legal/">Politica de Privacidad y Cookies</a></section>		</aside>
+</section><section id="block-62" class="widget widget_block"><a style="color:var(--ast-global-color-0); font-size:18px;" href="/legal/">Politica de Privacidad</a> y <a style="color:var(--ast-global-color-0); font-size:18px;" href="/cookies/">Cookies</a></section>		</aside>
 						</div>
 										</div>
 			</div>
@@ -942,8 +1064,8 @@ transform: rotate(-31.01deg);
                 <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"></path>
                 </svg></span>	<span class="screen-reader-text">Scroll al inicio</span>
 </div>
-<style id="core-block-supports-inline-css">.wp-block-columns.wp-container-2{flex-wrap:nowrap;}</style>
-<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"\/wp-admin\/","rest_rootURL":"\/wp-json\/","ajax_url":"\/wp-admin\/admin-ajax.php","nft_nonce":"51610d3d78"};</script>
+<style id="core-block-supports-inline-css">.wp-block-columns.wp-container-2{flex-wrap:nowrap;}.wp-block-buttons.wp-container-3{justify-content:flex-start;}</style>
+<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"\/wp-admin\/","rest_rootURL":"\/wp-json\/","ajax_url":"\/wp-admin\/admin-ajax.php","nft_nonce":"387210fe95"};</script>
 <script src="/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=4.0.8" id="essential-blocks-blocks-localize-js"></script>
 <script id="astra-theme-js-js-extra">var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_top":"1"};</script>
 <script src="/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.0.2" id="astra-theme-js-js"></script>
