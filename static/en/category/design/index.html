@@ -407,49 +407,44 @@ input[type=checkbox]:checked::before {
 }</style>
 <!-- end Simple Custom CSS and JS -->
 <!-- start Simple Custom CSS and JS -->
-<script>jQuery(document).ready(function( $ ){
-	formInit();
-	
- $('form').on("submit", function(e) {
-    e.preventDefault(); 
-    submitForm( $(this));
-  });
-});
+<script>(function ($) {
+    $(document).ready(function () {
+        //Act on every form on the page
+        $("form").each(function () {
+			var form = $(this);	
+            //enable/disable sumbit button depending on terms checkbox
+            form.find('#termsCheckbox').on("change", function () {
+                form.find('#form-button').attr("disabled", !$(this).is(':checked'));
+            });
 
-function submitForm(form) {
+            //capture submission
+            form.on("submit", function () {
 
-    jQuery.ajax({
-        type: 'post',
-        url: '/post-contact',
-        data: form.serializeArray(),
-        success: function (data) {
-			
-			jQuery('.post-message-success').attr('style',  'display:block');
-			form.trigger("reset");
-			setTimeout(function(){jQuery('.post-message-success').attr('style',  'display:none')}, 4000);
-        },
-		error: function(data){
-			jQuery('.post-message-fail').attr('style',  'display:block');
-			setTimeout(function(){jQuery('.post-message-fail').attr('style',  'display:none')}, 4000);
-		}
-    });
-	
-    return false;
-};
+                $.ajax({
+                    type: 'post',
+                    url: '/post-contact',
+                    data: form.serializeArray(),
+                    success: function (data) {
 
-    function formInit() {
-        const form = document.getElementById("contactForm");
-        const termsCheckbox = document.getElementById("termsCheckbox");
-        const submitButton = document.getElementById("form-button");
+                        $('.post-message-success').attr('style', 'display:block');
+                        form.trigger("reset");
+                        setTimeout(function () {
+                            $('.post-message-success').attr('style', 'display:none')
+                        }, 4000);
+                    },
+                    error: function (data) {
+                        $('.post-message-fail').attr('style', 'display:block');
+                        setTimeout(function () {
+                            $('.post-message-fail').attr('style', 'display:none')
+                        }, 4000);
+                    }
+                });
 
-        termsCheckbox.addEventListener("change", function () {
-            if (termsCheckbox.checked) {
-                submitButton.disabled = false;
-            } else {
-                submitButton.disabled = true;
-            }
+                return false;
+            });
         });
-    };</script>
+    })
+})(jQuery);</script>
 <!-- end Simple Custom CSS and JS -->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-983HTVV1T3"></script>
@@ -998,7 +993,7 @@ transform: rotate(-31.01deg);
                 </svg></span>	<span class="screen-reader-text">Scroll to Top</span>
 </div>
 <style id="core-block-supports-inline-css">.wp-block-buttons.wp-container-1{justify-content:flex-start;}</style>
-<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"\/wp-admin\/","rest_rootURL":"\/en\/wp-json\/","ajax_url":"\/wp-admin\/admin-ajax.php","nft_nonce":"387210fe95"};</script>
+<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"\/wp-admin\/","rest_rootURL":"\/en\/wp-json\/","ajax_url":"\/wp-admin\/admin-ajax.php","nft_nonce":"819a104021"};</script>
 <script src="/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=4.0.8" id="essential-blocks-blocks-localize-js"></script>
 <script id="astra-theme-js-js-extra">var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_top":"1"};</script>
 <script src="/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.0.2" id="astra-theme-js-js"></script>

@@ -415,49 +415,44 @@ input[type=checkbox]:checked::before {
 }</style>
 <!-- end Simple Custom CSS and JS -->
 <!-- start Simple Custom CSS and JS -->
-<script>jQuery(document).ready(function( $ ){
-	formInit();
-	
- $('form').on("submit", function(e) {
-    e.preventDefault(); 
-    submitForm( $(this));
-  });
-});
+<script>(function ($) {
+    $(document).ready(function () {
+        //Act on every form on the page
+        $("form").each(function () {
+			var form = $(this);	
+            //enable/disable sumbit button depending on terms checkbox
+            form.find('#termsCheckbox').on("change", function () {
+                form.find('#form-button').attr("disabled", !$(this).is(':checked'));
+            });
 
-function submitForm(form) {
+            //capture submission
+            form.on("submit", function () {
 
-    jQuery.ajax({
-        type: 'post',
-        url: '/post-contact',
-        data: form.serializeArray(),
-        success: function (data) {
-			
-			jQuery('.post-message-success').attr('style',  'display:block');
-			form.trigger("reset");
-			setTimeout(function(){jQuery('.post-message-success').attr('style',  'display:none')}, 4000);
-        },
-		error: function(data){
-			jQuery('.post-message-fail').attr('style',  'display:block');
-			setTimeout(function(){jQuery('.post-message-fail').attr('style',  'display:none')}, 4000);
-		}
-    });
-	
-    return false;
-};
+                $.ajax({
+                    type: 'post',
+                    url: '/post-contact',
+                    data: form.serializeArray(),
+                    success: function (data) {
 
-    function formInit() {
-        const form = document.getElementById("contactForm");
-        const termsCheckbox = document.getElementById("termsCheckbox");
-        const submitButton = document.getElementById("form-button");
+                        $('.post-message-success').attr('style', 'display:block');
+                        form.trigger("reset");
+                        setTimeout(function () {
+                            $('.post-message-success').attr('style', 'display:none')
+                        }, 4000);
+                    },
+                    error: function (data) {
+                        $('.post-message-fail').attr('style', 'display:block');
+                        setTimeout(function () {
+                            $('.post-message-fail').attr('style', 'display:none')
+                        }, 4000);
+                    }
+                });
 
-        termsCheckbox.addEventListener("change", function () {
-            if (termsCheckbox.checked) {
-                submitButton.disabled = false;
-            } else {
-                submitButton.disabled = true;
-            }
+                return false;
+            });
         });
-    };</script>
+    })
+})(jQuery);</script>
 <!-- end Simple Custom CSS and JS -->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-983HTVV1T3"></script>
@@ -1368,7 +1363,7 @@ transform: rotate(-31.01deg);
                 </svg></span>	<span class="screen-reader-text">Scroll to Top</span>
 </div>
 <style id="core-block-supports-inline-css">.wp-block-buttons.wp-container-35{justify-content:flex-start;}.wp-block-columns.wp-container-3,.wp-block-columns.wp-container-11,.wp-block-columns.wp-container-14,.wp-block-columns.wp-container-17,.wp-block-columns.wp-container-19,.wp-block-columns.wp-container-22{flex-wrap:nowrap;}.wp-block-column.wp-container-4 > *,.wp-block-column.wp-container-5 > *,.wp-block-column.wp-container-6 > *,.wp-block-column.wp-container-12 > *,.wp-block-column.wp-container-15 > *,.wp-block-column.wp-container-18 > *,.wp-block-column.wp-container-24 > *,.wp-block-column.wp-container-26 > *,.wp-block-column.wp-container-28 > *,.wp-block-column.wp-container-30 > *{margin-block-start:0;margin-block-end:0;}.wp-block-column.wp-container-4.wp-block-column.wp-container-4 > * + *,.wp-block-column.wp-container-5.wp-block-column.wp-container-5 > * + *,.wp-block-column.wp-container-6.wp-block-column.wp-container-6 > * + *,.wp-block-column.wp-container-12.wp-block-column.wp-container-12 > * + *,.wp-block-column.wp-container-15.wp-block-column.wp-container-15 > * + *,.wp-block-column.wp-container-18.wp-block-column.wp-container-18 > * + *,.wp-block-column.wp-container-24.wp-block-column.wp-container-24 > * + *,.wp-block-column.wp-container-26.wp-block-column.wp-container-26 > * + *,.wp-block-column.wp-container-28.wp-block-column.wp-container-28 > * + *,.wp-block-column.wp-container-30.wp-block-column.wp-container-30 > * + *{margin-block-start:8px;margin-block-end:0;}.wp-block-columns.wp-container-7,.wp-block-columns.wp-container-31{flex-wrap:nowrap;gap:2rem 2rem;}.wp-block-group.wp-container-9 > :where(:not(.alignleft):not(.alignright):not(.alignfull)),.wp-block-group.wp-container-23 > :where(:not(.alignleft):not(.alignright):not(.alignfull)),.wp-block-group.wp-container-32 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1200px;margin-left:auto !important;margin-right:auto !important;}.wp-block-group.wp-container-9 > .alignwide,.wp-block-group.wp-container-23 > .alignwide,.wp-block-group.wp-container-32 > .alignwide{max-width:1200px;}.wp-block-group.wp-container-9 .alignfull,.wp-block-group.wp-container-23 .alignfull,.wp-block-group.wp-container-32 .alignfull{max-width:none;}.wp-block-buttons.wp-container-25,.wp-block-buttons.wp-container-27,.wp-block-buttons.wp-container-29{align-items:flex-end;}</style>
-<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"\/wp-admin\/","rest_rootURL":"\/ca\/wp-json\/","ajax_url":"\/wp-admin\/admin-ajax.php","nft_nonce":"387210fe95"};</script>
+<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"\/wp-admin\/","rest_rootURL":"\/ca\/wp-json\/","ajax_url":"\/wp-admin\/admin-ajax.php","nft_nonce":"819a104021"};</script>
 <script src="/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=4.0.8" id="essential-blocks-blocks-localize-js"></script>
 <script id="astra-theme-js-js-extra">var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_top":"1"};</script>
 <script src="/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.0.2" id="astra-theme-js-js"></script>

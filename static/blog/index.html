@@ -19,11 +19,11 @@
 	<meta property="og:title" content="Blog - Tapinpack by tictap">
 	<meta property="og:url" content="/blog/">
 	<meta property="og:site_name" content="Tapinpack by tictap">
-	<meta property="article:modified_time" content="2023-03-27T10:35:35+00:00">
+	<meta property="article:modified_time" content="2023-05-10T12:18:43+00:00">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:label1" content="Tiempo de lectura">
 	<meta name="twitter:data1" content="1 minuto">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/blog/","url":"/blog/","name":"Blog - Tapinpack by tictap","isPartOf":{"@id":"/#website"},"datePublished":"2023-02-22T12:31:05+00:00","dateModified":"2023-03-27T10:35:35+00:00","breadcrumb":{"@id":"/blog/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["/blog/"]}]},{"@type":"BreadcrumbList","@id":"/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada","item":"/"},{"@type":"ListItem","position":2,"name":"Blog"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Tapinpack by tictap","description":"Etiquetaje digital","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"/#organization","name":"Tapinpack by tictap","url":"/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"/#/schema/logo/image/","url":"/wp-content/uploads/2023/02/Main-logo.png","contentUrl":"/wp-content/uploads/2023/02/Main-logo.png","width":254,"height":82,"caption":"Tapinpack by tictap"},"image":{"@id":"/#/schema/logo/image/"}}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/blog/","url":"/blog/","name":"Blog - Tapinpack by tictap","isPartOf":{"@id":"/#website"},"datePublished":"2023-02-22T12:31:05+00:00","dateModified":"2023-05-10T12:18:43+00:00","breadcrumb":{"@id":"/blog/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["/blog/"]}]},{"@type":"BreadcrumbList","@id":"/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada","item":"/"},{"@type":"ListItem","position":2,"name":"Blog"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Tapinpack by tictap","description":"Etiquetaje digital","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"/#organization","name":"Tapinpack by tictap","url":"/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"/#/schema/logo/image/","url":"/wp-content/uploads/2023/02/Main-logo.png","contentUrl":"/wp-content/uploads/2023/02/Main-logo.png","width":254,"height":82,"caption":"Tapinpack by tictap"},"image":{"@id":"/#/schema/logo/image/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -89,9 +89,9 @@ img.emoji {
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}</style>
 <link rel="stylesheet" id="wpml-blocks-css" href="/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.0" media="all">
-<link rel="stylesheet" id="eb-block-style-10-css" href="/wp-content/uploads/eb-style/eb-style-10.min.css?ver=b792962b71" media="all">
+<link rel="stylesheet" id="eb-block-style-10-css" href="/wp-content/uploads/eb-style/eb-style-10.min.css?ver=f372709287" media="all">
 <link rel="stylesheet" id="wpml-legacy-horizontal-list-0-css" href="/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1" media="all">
-<link rel="stylesheet" id="uag-style-10-css" href="/wp-content/uploads/uag-plugin/assets/0/uag-css-10-1683543193.css?ver=2.4.2" media="all">
+<link rel="stylesheet" id="uag-style-10-css" href="/wp-content/uploads/uag-plugin/assets/0/uag-css-10-1683732715.css?ver=2.4.2" media="all">
 <!--[if IE]>
 <script src='/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.0.2' id='astra-flexibility-js'></script>
 <script id='astra-flexibility-js-after'>
@@ -414,49 +414,44 @@ input[type=checkbox]:checked::before {
 }</style>
 <!-- end Simple Custom CSS and JS -->
 <!-- start Simple Custom CSS and JS -->
-<script>jQuery(document).ready(function( $ ){
-	formInit();
-	
- $('form').on("submit", function(e) {
-    e.preventDefault(); 
-    submitForm( $(this));
-  });
-});
+<script>(function ($) {
+    $(document).ready(function () {
+        //Act on every form on the page
+        $("form").each(function () {
+			var form = $(this);	
+            //enable/disable sumbit button depending on terms checkbox
+            form.find('#termsCheckbox').on("change", function () {
+                form.find('#form-button').attr("disabled", !$(this).is(':checked'));
+            });
 
-function submitForm(form) {
+            //capture submission
+            form.on("submit", function () {
 
-    jQuery.ajax({
-        type: 'post',
-        url: '/post-contact',
-        data: form.serializeArray(),
-        success: function (data) {
-			
-			jQuery('.post-message-success').attr('style',  'display:block');
-			form.trigger("reset");
-			setTimeout(function(){jQuery('.post-message-success').attr('style',  'display:none')}, 4000);
-        },
-		error: function(data){
-			jQuery('.post-message-fail').attr('style',  'display:block');
-			setTimeout(function(){jQuery('.post-message-fail').attr('style',  'display:none')}, 4000);
-		}
-    });
-	
-    return false;
-};
+                $.ajax({
+                    type: 'post',
+                    url: '/post-contact',
+                    data: form.serializeArray(),
+                    success: function (data) {
 
-    function formInit() {
-        const form = document.getElementById("contactForm");
-        const termsCheckbox = document.getElementById("termsCheckbox");
-        const submitButton = document.getElementById("form-button");
+                        $('.post-message-success').attr('style', 'display:block');
+                        form.trigger("reset");
+                        setTimeout(function () {
+                            $('.post-message-success').attr('style', 'display:none')
+                        }, 4000);
+                    },
+                    error: function (data) {
+                        $('.post-message-fail').attr('style', 'display:block');
+                        setTimeout(function () {
+                            $('.post-message-fail').attr('style', 'display:none')
+                        }, 4000);
+                    }
+                });
 
-        termsCheckbox.addEventListener("change", function () {
-            if (termsCheckbox.checked) {
-                submitButton.disabled = false;
-            } else {
-                submitButton.disabled = true;
-            }
+                return false;
+            });
         });
-    };</script>
+    })
+})(jQuery);</script>
 <!-- end Simple Custom CSS and JS -->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-983HTVV1T3"></script>
@@ -920,7 +915,7 @@ transform: rotate(-31.01deg);
 
 	
 	
-<div class="wp-block-uagb-container uagb-block-27835c55 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+<div class="wp-block-uagb-container uagb-block-94eec343 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 <p class="has-ast-global-color-1-color has-text-color has-x-large-font-size" style="margin-top:0.4em">Blog</p>
 
 
@@ -931,7 +926,7 @@ transform: rotate(-31.01deg);
 
 
 
-			<div class="wp-block-uagb-post-grid uagb-post-grid  uagb-post__image-position-top uagb-post__image-enabled uagb-block-2f0c8168     uagb-post__items uagb-post__columns-3 is-grid uagb-post__columns-tablet-2 uagb-post__columns-mobile-1 uagb-post__equal-height" data-total="2">
+			<div class="wp-block-uagb-post-grid uagb-post-grid  uagb-post__image-position-top uagb-post__image-enabled uagb-block-fdc204ce     uagb-post__items uagb-post__columns-3 is-grid uagb-post__columns-tablet-2 uagb-post__columns-mobile-1 uagb-post__equal-height" data-total="1">
 
 												<article class="uagb-post__inner-wrap">								<div class="uagb-post__image">
 									<a href="/deben-actualizarse-las-etiquetas-para-cumplir-con-el-nuevo-reglamentotiene-caracter-retroactivo/" target="_self" rel="bookmark noopener noreferrer" class="uagb-image-ratio-inherit"><img width="561" height="285" src="/wp-content/uploads/2023/05/barricas.png" class="attachment-large size-large" alt="" decoding="async" srcset="/wp-content/uploads/2023/05/barricas.png 561w, /wp-content/uploads/2023/05/barricas-300x152.png 300w" sizes="(max-width: 561px) 100vw, 561px">					</a>
@@ -983,6 +978,24 @@ transform: rotate(-31.01deg);
 							</div>
 						<h4 class="uagb-post__title uagb-post__text">
 				<a href="/que-informacion-deben-mostrar-las-bebidas-alcoholicas-en-la-union-europea/" target="_self" rel="bookmark noopener noreferrer">¿Qué información deben mostrar las bebidas alcohólicas en la Unión Europea?</a>
+			</h4>
+						<div class="uagb-post__text uagb-post-grid-byline">
+							</div>
+												</article>
+																<article class="uagb-post__inner-wrap">								<div class="uagb-post__image">
+									<a href="/que-es-nutriscore/" target="_self" rel="bookmark noopener noreferrer" class="uagb-image-ratio-inherit"><img width="561" height="285" src="/wp-content/uploads/2023/03/compras-nutriscore.png" class="attachment-large size-large" alt="" decoding="async" srcset="/wp-content/uploads/2023/03/compras-nutriscore.png 561w, /wp-content/uploads/2023/03/compras-nutriscore-300x152.png 300w" sizes="(max-width: 561px) 100vw, 561px">					</a>
+							</div>
+						<h4 class="uagb-post__title uagb-post__text">
+				<a href="/que-es-nutriscore/" target="_self" rel="bookmark noopener noreferrer">¿Qué es NUTRISCORE?</a>
+			</h4>
+						<div class="uagb-post__text uagb-post-grid-byline">
+							</div>
+												</article>
+																<article class="uagb-post__inner-wrap">								<div class="uagb-post__image">
+									<a href="/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/" target="_self" rel="bookmark noopener noreferrer" class="uagb-image-ratio-inherit"><img width="561" height="285" src="/wp-content/uploads/2023/03/WINE-BOOLE.png" class="attachment-large size-large" alt="" decoding="async" srcset="/wp-content/uploads/2023/03/WINE-BOOLE.png 561w, /wp-content/uploads/2023/03/WINE-BOOLE-300x152.png 300w" sizes="(max-width: 561px) 100vw, 561px">					</a>
+							</div>
+						<h4 class="uagb-post__title uagb-post__text">
+				<a href="/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/" target="_self" rel="bookmark noopener noreferrer">¿Qué debes saber sobre el nuevo etiquetado de las bebidas alcohólicas?</a>
 			</h4>
 						<div class="uagb-post__text uagb-post-grid-byline">
 							</div>
@@ -1065,7 +1078,7 @@ transform: rotate(-31.01deg);
                 </svg></span>	<span class="screen-reader-text">Scroll al inicio</span>
 </div>
 <style id="core-block-supports-inline-css">.wp-block-columns.wp-container-2{flex-wrap:nowrap;}.wp-block-buttons.wp-container-3{justify-content:flex-start;}</style>
-<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"\/wp-admin\/","rest_rootURL":"\/wp-json\/","ajax_url":"\/wp-admin\/admin-ajax.php","nft_nonce":"387210fe95"};</script>
+<script id="essential-blocks-blocks-localize-js-extra">var EssentialBlocksLocalize = {"eb_plugins_url":"\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_version":"4.0.8","eb_admin_url":"\/wp-admin\/","rest_rootURL":"\/wp-json\/","ajax_url":"\/wp-admin\/admin-ajax.php","nft_nonce":"819a104021"};</script>
 <script src="/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=4.0.8" id="essential-blocks-blocks-localize-js"></script>
 <script id="astra-theme-js-js-extra">var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_top":"1"};</script>
 <script src="/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.0.2" id="astra-theme-js-js"></script>
