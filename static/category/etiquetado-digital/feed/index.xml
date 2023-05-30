@@ -12,7 +12,7 @@
 	<atom:link href="/category/etiquetado-digital/feed/" rel="self" type="application/rss+xml" />
 	<link>/category/etiquetado-digital/</link>
 	<description>Etiquetaje digital</description>
-	<lastBuildDate>Mon, 24 Apr 2023 10:25:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 May 2023 14:15:54 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,57 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>¿Puedo poner las etiquetas digitales en mi web?</title>
+		<link>/puedo-poner-las-etiquetas-digitales-a-mi-web/</link>
+		
+		<dc:creator><![CDATA[olinta]]></dc:creator>
+		<pubDate>Wed, 17 May 2023 09:11:32 +0000</pubDate>
+				<category><![CDATA[etiquetado-digital]]></category>
+		<category><![CDATA[normativa]]></category>
+		<category><![CDATA[digital labeling]]></category>
+		<category><![CDATA[reglamento EU]]></category>
+		<guid isPermaLink="false">/?p=1825</guid>
+
+					<description><![CDATA[<p>No se puede usar una web regular para colgar la información nutricional y los ingredientes debido a la trazabilidad.</p>
+<p>La entrada <a rel="nofollow" href="/puedo-poner-las-etiquetas-digitales-a-mi-web/">¿Puedo poner las etiquetas digitales en mi web?</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-ast-global-color-8-color has-text-color">Buscando la manera más rápida de aplicar el nuevo reglamento europeo de etiquetado, uno podría pensar que es suficiente con añadir un apartado en la web de la bodega y allí añadir la información necesaria. Pero, ¿es posible? ¿Pueden los productores de vino pueden enlazar con sus propios sitios web/apps la información de la etiqueta?</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color"><strong>La respuesta es NO</strong>. Aqui le explicaremos el motivo por el cual no es posible una solución «casera».</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="561" height="285" src="/wp-content/uploads/2023/05/PROHIBIDO-track.png" alt="forbidden to track data" class="wp-image-1834" srcset="/wp-content/uploads/2023/05/PROHIBIDO-track.png 561w, /wp-content/uploads/2023/05/PROHIBIDO-track-300x152.png 300w" sizes="(max-width: 561px) 100vw, 561px" /><figcaption class="wp-element-caption"><sub><a href="http://www.freepik.com/">Designed by vectorjuice / Freepik</a> </sub></figcaption></figure>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">El Reglamento (UE) 2021/2117 del parlamento Europeo y del Consejo de 2 de diciembre de 2021 especifica:</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">«(80) [..] o en una etiqueta sujeta a este y de presentar la información nutricional completa y la lista de ingredientes por vía electrónica, <strong>a condición de que eviten toda recopilación o seguimiento de datos de los usuarios y no suministren información con fines de<br>comercialización</strong>. [..]</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Es decir, que mostrar la información se puede hacer únicamente cuando no se estén recopilando datos de los usuarios. Con una web regular, esto no es posible porque las páginas webs son precisamente herramientas que no solo muestran información, sino que también recopilan información de nuestros usuarios y clientes, por el mero hecho de estar en google, en las cookies.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color"><strong>¿Qué debo hacer entonces?</strong></p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Hay varias formas, pero ¿Por qué perder tiempo cuando puedes dedicarlo a tu producto? Lo más fácil (y económico) es usar herramientas existentes como Tapinpack, que garantiza que no hay trazabilidad ni recopilación de información del usuario, y al mismo tiempo ofrece una solución fácil a la problemática de tener que ofrecer la traducción en todos los idiomas de la Unión Europea.</p>
+<p>La entrada <a rel="nofollow" href="/puedo-poner-las-etiquetas-digitales-a-mi-web/">¿Puedo poner las etiquetas digitales en mi web?</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Claves para un buen etiquetado</title>
 		<link>/claves-para-un-buen-etiquetado/</link>
 		
@@ -67,7 +118,7 @@
 
 
 
-<p class="has-ast-global-color-8-color has-text-color">La etiqueta de una botella de bebida alcohólica también es una herramienta de marketing y, por lo tanto, <strong>el diseño de la etiqueta debe ser atractivo e informativo</strong>. El diseño debe reflejar la personalidad del producto y la marca. La elección del color y la tipografía debe ser atractiva, pero también legible y fácil de entender. Es la cara visible del producto envasado que tiene la doble tarea de destacar frente a la competencia y de <strong>definir la marca</strong>. Actualmente con el etiquetado digital se logra una mayor hegemonía en el diseño al derivar información obligatoria fuera de la etiqueta física accesible a través de un código QR, evitando ruido visual y ofreciendo la posibilidad de que el diseño destaque y respire.</p>
+<p class="has-ast-global-color-8-color has-text-color">La etiqueta de una botella de bebida alcohólica también es una herramienta de marketing y, por lo tanto, <strong>el diseño de la etiqueta debe ser atractivo e informativo</strong>. El diseño debe reflejar la personalidad del producto y la marca. La elección del color y la tipografía debe ser atractiva, pero también legible y fácil de entender. Es la cara visible del producto envasado que tiene la doble tarea de destacar frente a la competencia y de <strong>definir la marca</strong>. Actualmente con el etiquetado digital&nbsp;se logra una mayor hegemonía en el diseño al derivar información obligatoria fuera de la etiqueta física accesible a través de un código QR, evitando ruido visual y ofreciendo la posibilidad de que el diseño destaque y respire.</p>
 
 
 
@@ -75,7 +126,7 @@
 
 
 
-<div class="wp-block-uagb-image alignright uagb-block-79257284 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-right"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg " src="/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg" alt="Bottle with blank question mark. By Dagnele at Pixabay" class="uag-image-1299" width="" height="" title="" loading="lazy"/></figure></div>
+<div class="wp-block-uagb-image alignright uagb-block-46dff0c6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-right"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg " sizes="(max-width: 480px) 150px" src="/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg" alt="Bottle with blank question mark. By Dagnele at Pixabay" class="uag-image-1299" width="561" height="285" title="" loading="lazy"/></figure></div>
 
 
 
@@ -99,7 +150,7 @@
 
 
 
-<p class="has-ast-global-color-0-color has-text-color has-medium-font-size"><strong>Facilidad de uso</strong></p>
+<p class="has-ast-global-color-0-color has-text-color"><em>El tamaño de las indicaciones obligatorias y las indicación de determinadas sustancias o productos que causan alergias o intolerancias, deberá ser igual o superior a 1,2 mm, independientemente del formato de caracteres<br>utilizado.</em></p>
 
 
 

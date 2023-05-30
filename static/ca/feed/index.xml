@@ -10,7 +10,7 @@
 <channel>
 	<title>Tapinpack by tictap</title>
 	<atom:link href="/ca/feed/" rel="self" type="application/rss+xml" />
-	<link>/ca/</link>
+	<link>/ca/inici/</link>
 	<description>Etiquetaje digital</description>
 	<lastBuildDate>Mon, 24 Apr 2023 10:39:47 +0000</lastBuildDate>
 	<language>ca</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2023/04/favicon-tapinpack.png</url>
 	<title>Tapinpack by tictap</title>
-	<link>/ca/</link>
+	<link>/ca/inici/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

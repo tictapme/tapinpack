@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Etiquetaje digital</description>
-	<lastBuildDate>Mon, 08 May 2023 10:29:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jun 2023 06:29:37 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,434 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Los requisitos para las etiquetas de los vinos y la reforma de la política agrícola de la UE en 2023</title>
+		<link>/requisitos-para-el-etiquetaje-de-vinos-y-espumosos/</link>
+		
+		<dc:creator><![CDATA[olinta]]></dc:creator>
+		<pubDate>Mon, 29 May 2023 14:43:53 +0000</pubDate>
+				<category><![CDATA[normativa]]></category>
+		<category><![CDATA[etiquetado digital]]></category>
+		<category><![CDATA[reglamento EU]]></category>
+		<guid isPermaLink="false">/?p=1862</guid>
+
+					<description><![CDATA[<p>Los requisitos de etiquetado han cambiado debido al nuevo Reglamento (UE) 2021/2117. Todas las botellas de vino que se vendan en la UE, indistintamente del país de origen, deberán añadir la información nutricional y la lista de ingredientes. Esto será obligatorio a partir del 8 de diciembre de 2023 y complementarán a la información sobre &#8230;</p>
+<p class="read-more"> <a class="" href="/requisitos-para-el-etiquetaje-de-vinos-y-espumosos/"> <span class="screen-reader-text">Los requisitos para las etiquetas de los vinos y la reforma de la política agrícola de la UE en 2023</span> Leer más &#187;</a></p>
+<p>La entrada <a rel="nofollow" href="/requisitos-para-el-etiquetaje-de-vinos-y-espumosos/">Los requisitos para las etiquetas de los vinos y la reforma de la política agrícola de la UE en 2023</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="858" height="443" src="/wp-content/uploads/2023/05/Etiquetado-Digital-Tapinpack.png" alt="" class="wp-image-1885" srcset="/wp-content/uploads/2023/05/Etiquetado-Digital-Tapinpack.png 858w, /wp-content/uploads/2023/05/Etiquetado-Digital-Tapinpack-300x155.png 300w, /wp-content/uploads/2023/05/Etiquetado-Digital-Tapinpack-768x397.png 768w" sizes="(max-width: 858px) 100vw, 858px" /></figure>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Los requisitos de etiquetado han cambiado debido al nuevo <em>Reglamento (UE) 2021/2117</em>. Todas las botellas de vino que se vendan en la UE, indistintamente del país de origen, deberán <strong>añadir la información nutricional</strong> y la <strong>lista de ingredientes</strong>. </p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Esto será obligatorio a partir del <strong>8 de diciembre de 2023</strong> y complementarán a la información sobre los alérgenos y la información energética, ya obligatorios como el indicado en el como el reglamento 1169/2011 y el reglamento 1308/2013..&nbsp;</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">En este artículo le indicamos con detalle qué elementos deben mostrarse en las etiquetas de los productos vitícolas segun la última reforma de la Política Agrícola Común (PAC).</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color">Si desea leer una versión más resumida, vaya a nuestro artículo: <a href="/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/">¿Qué debes saber sobre el nuevo etiquetado de las bebidas alcohólicas?</a>  O nuestra<strong> </strong>tabla resumen en <a href="/que-informacion-deben-mostrar-las-bebidas-alcoholicas-en-la-union-europea/">¿Qué información deben mostrar las bebidas alcohólicas en la Unión Europea?</a></p>
+
+
+
+<p></p>
+
+
+
+<h2>¿Qué información es obligatoria?</h2>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Empezamos por los nuevos requisitos introducidos por el nuevo reglamento. </p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color">Información Nutricional y lista de ingredientes</h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Se puede optar por dos formatos. El primero, añadir toda la información en la etiqueta física. El segundo, es optar por mostrar únicamente al valor energético en la etiqueta física y el resto de información (información nutricional completa y la lista de ingredientes) por vía electrónica.  El valor energético mostrado en la etiqueta papel, vendrá expresado mediante el símbolo «E» de «Energía».</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">La condición de estas etiquetas digitales, accesibles mediante un código QR, es que eviten toda recopilación o seguimiento de datos de los usuarios y no facilitan información con fines de comercialización.&nbsp;</p>
+
+
+
+<h4 class="has-text-align-left has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Categoría del producto vitícola </mark></h4>
+
+
+
+<p class="has-text-align-left has-ast-global-color-8-color has-text-color">De conformidad anexo VII, parte II <em>del Reglamento (UE) n.o 1308/2013. </em>deben indicar una de las categorías siguientes:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p class="has-ast-global-color-7-color has-text-color has-medium-font-size">Vino, Vino nuevo en proceso de fermentación, Vino de licor, Vino espumoso, Vino espumoso de calidad, Vino espumoso aromático de calidad, Vino espumoso gasificado, Vino de aguja, Vino de aguja gasificado, Mosto de uva, Mosto de uva parcialmente fermentado, Mosto de uva parcialmente fermentado procedente de uva pasificada, Mosto de uva concentrado, Mosto de uva concentrado rectificado,Vino de uvas pasificadas, Vino de uvas sobremaduradas, Vinagre de vino</p>
+</blockquote>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Esta categoría podrá omitirse en los vinos en cuya etiqueta figure el nombre de una denominación de origen protegida o una indicación geográfica protegida.</p>
+
+
+
+<h4><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">El grado alcohólico volumétrico adquirido </mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Se especificará en las bebidas que tengan más de un 1,2 % en volumen de alcohol. Este se indicará en unidades o medias unidades porcentuales. La cifra irá seguida del símbolo «% vol.» y podrá ir precedida de los términos «grado alcohólico adquirido» o «alcohol adquirido», o de la abreviatura «alc.». </p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Denominación. Indicaciones geográficas y denominaciones de origen.</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Los vinos que pertenezcan a una «denominación de origen protegida», «indicación geográfica protegida», o las correspondientes abreviaturas “DOP” o “IGP”», junto al nombre de la denominación de origen protegida o la indicación geográfica protegida, y sin necesidad de traducción. </p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Aquellos vinos sin identificación geográfica protegida, deben indicar el país de procedencia.</p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Procedencia</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Puede complementar el punto anterior o aparecer solo. Esta «indicación de la procedencia» busca garantizar la trazabilidad. Puede completar la denominación de venta, o aparecer sola. Los términos utilizados variarán entre: «vino de […]», «producido en […]», «producto de […]» o «sekt de […]», «vino de la Unión Europea» o «mezcla de vinos de diferentes países de la Unión Europea», etc. o expresiones equivalentes, según el origen del Vino.</p>
+
+
+
+<h4 class="has-ast-global-color-7-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Indicación del embotellador, productor, importador y vendedor </mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color has-medium-font-size">Estos<strong> </strong>podrán agruparse si se refieren a la misma persona física o jurídica.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color has-medium-font-size">&#8211;  <strong>Embotellador</strong> (nombre y la dirección), indica dónde tiene lugar el embotellado de los productos vitivinícolas con denominación de origen o indicación geográfica protegidaen el caso del vino espumoso, el vino espumoso gasificado, el vino espumoso de calidad o el vino espumoso aromático de calidad, el nombre del productor o del vendedor. Y se completarán mediante los términos «embotellador» o «embotellado por […]».</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color has-medium-font-size">&#8211;  <strong>Productor.</strong> El nombre y la dirección del productor o vendedor se completarán con los términos «productor» o «producido por» y «vendedor» o «vendido por», o expresiones equivalentes.&nbsp;</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color has-medium-font-size">&#8211;  <strong>Importador.</strong> Se indicará el nombre y la dirección del importador, precedidos de los términos «importador» o «importado por […]». </p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color has-medium-font-size">En el caso de los productos vitivinícolas importados a granel y embotellados en la Unión, el nombre del importador podrá sustituirse o completarse con la indicación del embotellador</p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Alergias o intolerancias</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">En virtud de las disposiciones del Reglamento (UE) 1169/2011, las sustancias o productos que puedan causar alergias o intolerancias y los términos que deben <strong>utilizarse para indicarlos en la etiqueta de los productos alimenticios</strong> son los ovoproductos, los productos lácteos y los sulfitos. Las etiquetas deben hacer referencia a la existencia de posibles trazas a pesar de haber pasado por el proceso de decantación. Estos deben mostrarse en la etiqueta física y en el idioma al que se exporta el producto.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color has-small-font-size">Puede encontrar más información en nuestro artículo: <a href="/alergenos-en-el-vino-y-su-etiquetado/">Alérgenos en el vino y su etiquetado</a></p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Volumen nominal</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Las gamas de las cantidades nominales del contenido en los envases preparados que para ‘vinos tranquilos’, en el intervalo de 100 ml a 1500 ml son: 100 -187 – 250 – 375 – 500 – 750 &#8211; 1000 -1500. Fuera del intervalo, la utilización será libre.</p>
+
+
+
+<p></p>
+
+
+
+<h2>Disposiciones específicas</h2>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Contenido del azúcar</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">La indicación del contenido de azúcar es obligatoria para el vino espumoso, el vino espumoso gasificado, el vino espumoso de calidad o el vino espumoso aromático de calidad, mientras que debe seguir siendo facultativa para otras categorías de productos vitivinícolas.&nbsp;</p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Fecha de consumo preferente</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Para los productos vitivinícolas desalcoholizados, es decir,&nbsp; aquellos productos que hayan sido sometidos a un proceso de desalcoholización con un grado alcohólico volumétrico adquirido inferior al 10%.&nbsp;</p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Producido mediante la adición de dióxido de carbono</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Requerida únicamente para los vinos espumosos gasificados, vinos de aguja gasificados y vinos espumosos de calidad. En estos casos se requieren los términos «vino espumoso gasificado» y «vino de aguja gasificado», se completarán en caracteres del mismo tipo y tamaño con los términos «obtenido por adición de dióxido de carbono» u «obtenido por adición de anhídrido de carbono». En el caso de los vinos espumosos de calidad, la referencia a la categoría del producto vitivinícola podrá omitirse en los vinos en cuyas etiquetas figure el término «Sekt».</p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Mensaje sanitario ( productos comercializados en territorio francés)</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Las bebidas alcohólicas (más del 1,2 % vol.)  deben llevar en su envase un mensaje sanitario destinado a las mujeres embarazadas que recomiende la no utilización de alcohol.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Puede tratarse de un pictograma que representa a una mujer embarazada en un círculo tachado o el mensaje redactado: «el consumo de bebidas alcohólicas durante el embarazo, incluso en pequeñas cantidades, puede tener consecuencias graves para la salud del niño».</p>
+
+
+
+<p></p>
+
+
+
+<h2>Indicaciones facultativas (opcionales)</h2>
+
+
+
+<p></p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Variedad de uva de vinificación utilizada</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Con el fin de prevenir prácticas de etiquetado engañosas, conviene establecer normas relativas a las condiciones de uso de los nombres utilizados para designar las variedades de uva de vinificación. Sin la necesidad de estar acogidos a una denominación de origen o indicación geográfica protegida puedan incluir en la etiqueta la mención «vino varietal» junto con el nombre del país en que se haya producido el producto vitivinícola.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Especialidades tradicionales garantizadas</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Para los productos que se comercialicen como una especialidad tradicional (Crianza, Reserva, Gran reserva, Gran añada, etc. ) deberá mostrar el símbolo en el etiquetado. También podrá figurar en el etiquetado la mención “especialidad tradicional garantizada” o la abreviatura “ETG”. En el caso de las especialidades tradicionales garantizadas que estén producidas fuera de la Unión, la presencia del símbolo en el etiquetado será facultativa.</p>
+
+
+
+<p></p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Contenido de azúcar </mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">En los productos vitivinícolas distintos del vino espumoso, el vino espumoso gasificado, el vino espumoso de calidad o el vino espumoso aromático de calidad.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">El<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color"> símbolo</mark> de la Unión que<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-2-color"> </mark><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">indican la denominación de origen protegida o la indicación geográfica protegida </mark>y las indicaciones de la Unión «denominación de origen protegida» o «indicación geográfica protegida» en vinos con denominación de origen protegida o indicación geográfica protegida.&nbsp;</p>
+
+
+
+<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Métodos de producción</mark></h4>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Términos que se refieren a determinados métodos como: <strong><em>Fermentado en barrica</em>, <em>Criado en barrica</em> y <em>Envejecido en barrica</em></strong><em>. </em>Solamente se podrán utilizar para designar un producto vitivinícola acogido a una denominación de origen o indicación geográfica protegida o a una indicación geográfica de un tercer país que haya sido fermentado, criado o envejecido en recipientes de madera.&nbsp;</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color"><strong>Nombre de otra <mark style="background-color:var(--ast-global-color-2)" class="has-inline-color has-ast-global-color-8-color">unidad geográfica menor o más amplia que la zona abarcada por la denominación de origen o la indicación geográfica</mark></strong>, en el caso de los vinos acogidos a una denominación de origen protegida o una indicación geográfica protegida,&nbsp;</p>
+
+
+
+<p class="has-white-color has-ast-global-color-0-background-color has-text-color has-background">Todo vino que cumpla los requisitos<strong> anteriores al nuevo Reglamento</strong> Europeo 2021/2117 de etiquetado antes del 8 de diciembre de 2023 y que hayan sido producidos y etiquetados antes de esa fecha <strong>podrán seguir comercializando</strong> hasta que se agoten las existencias. Es decir, que será obligatorio sólo después de esta fecha y <strong>no se aplicará retroactividad</strong>.</p>
+<p>La entrada <a rel="nofollow" href="/requisitos-para-el-etiquetaje-de-vinos-y-espumosos/">Los requisitos para las etiquetas de los vinos y la reforma de la política agrícola de la UE en 2023</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Alérgenos en el vino y su etiquetado</title>
+		<link>/alergenos-en-el-vino-y-su-etiquetado/</link>
+		
+		<dc:creator><![CDATA[olinta]]></dc:creator>
+		<pubDate>Thu, 18 May 2023 23:56:58 +0000</pubDate>
+				<category><![CDATA[normativa]]></category>
+		<category><![CDATA[Sin categorizar]]></category>
+		<guid isPermaLink="false">/?p=1844</guid>
+
+					<description><![CDATA[<p>Tomar una copa de vino es una actividad muy arraigada a nuestra cultura y está siempre asociada a una buena comida, pasar un buen momento junto a familia o amigos. Pero si eres una persona con alergias alimentarias, puede convertirse en un momento desagradable. Las alergias alimentarias son una respuesta inmune exagerada a sustancias presentes &#8230;</p>
+<p class="read-more"> <a class="" href="/alergenos-en-el-vino-y-su-etiquetado/"> <span class="screen-reader-text">Alérgenos en el vino y su etiquetado</span> Leer más &#187;</a></p>
+<p>La entrada <a rel="nofollow" href="/alergenos-en-el-vino-y-su-etiquetado/">Alérgenos en el vino y su etiquetado</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-ast-global-color-7-color has-text-color">Tomar una copa de vino es una actividad muy arraigada a nuestra cultura y está siempre asociada a una buena comida, pasar un buen momento junto a familia o amigos. Pero si eres una persona con alergias alimentarias, puede convertirse en un momento desagradable.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color">Las alergias alimentarias son una respuesta inmune exagerada a sustancias presentes en los alimentos. Estas reacciones pueden ser leves, como en el caso de una erupción cutánea, o graves, como en una reacción anafiláctica. Aunque las alergias a las bebidas alcohólicas no son muy comunes, pueden ser preocupantes para aquellos que las padecen.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color">Y es que, aunque muchos se sorprendan, los alérgenos están presentes en el vino, y por ello es importante estar bien informado antes de elegir un buen vino compatible con tus restricciones alimenticias.</p>
+
+
+
+<div class="wp-block-uagb-advanced-heading uagb-block-568ced54"><h2 class="uagb-heading-text">¿Cuáles son los alérgenos presentes en el vino?</h2></div>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color"><strong>Proteínas transportadoras de lípidos (LTPs)</strong> son unas proteínas de defensa que encontramos en el reino vegetal, y provienen de levaduras, bacterias y uvas. Estas proteínas también se encuentran comúnmente en licores y cerveza, y está presente más en el vino tinto que en el blanco, porqué este se fermenta con pieles de uva ricas en proteínas.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color"><strong>Claras de huevo.</strong> ¿Cómo? ¿Huevos en el vino? No, únicamente una proteína, que precisamente proviene de la clara de huevo. Esta es llamada albúmina, y se utiliza para ayudar a clarificar los vinos tintos mientras envejecen en barricas. El uso de albúmina es el método de clarificación más antiguo en la industria vinícola.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color"><strong>Caseína. </strong>La caseína es un tipo de fosfoproteína que se encuentra en la leche y por lo tanto, un vino que contenga esta proteína puede provocar una reacción a aquellas personas alérgicas a la leche. Este ingrediente se utiliza a menudo para ayudar a clarificar los vinos blancos.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color"><strong>Sulfitos. </strong>Los sulfitos son un componente natural en el proceso de elaboración del vino y se utilizan como conservantes. Como dato interesante, hay que destacar que las personas que padecen asma también corren un mayor riesgo de reacciones alérgicas a los sulfitos del vino.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color"><strong>Chitosan</strong>, que se obtiene a partir de la quitina, y esta deriva de exoesqueletos de crustáceos (camarones, cangrejos y otros crustáceos), hongos o artrópodos. El quitosano es un polímero de sacarosa que se utiliza frecuentemente como agente de acabado en los vinos blancos.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color"><strong>Gelatina</strong>. La gelatina es una proteína animal utilizada en el vino tinto para reducir la astringencia y los taninos.&nbsp;</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color"><strong>Isinglass.</strong> La isinglass es una proteína hecha de colágeno y obtenida de las vejigas natatorias de los peces. Debido a que esta proteína se obtiene directamente de los peces (notablemente del esturión beluga), no puede ser consumida por veganos estrictos y vegetarianos. La isinglass se utiliza en el vino como agente de clarificación suave para evitar afectar el sabor de los vinos rosados y blancos.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color"><strong>Gluten. </strong>Aunque el gluten se encuentra más comúnmente en la cerveza debido al lúpulo, la cebada y la levadura, ocasionalmente también puede encontrarse en el vino. A menudo se utiliza una mezcla de harina y agua para sellar los barriles de roble.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color">Aunque <strong>con el proceso de decantación</strong>, dónde los agentes de clarificación se separan, <strong>no debería haber quedar substancias presentes en el vino</strong>. Si existe algún riesgo de que todavía queden alérgenos, la botella debería estar etiquetada en consecuencia, y eso mismo requiere la Unión Europea, con el fin de indicar si quedan posibles alérgenos remanentes.</p>
+
+
+
+<h2 class="has-ast-global-color-7-color has-text-color"><strong>¿Qué requiere la legislación Europea?</strong></h2>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color">La Comisión Europea adoptó una Notificación sobre la información alimentaria facilitada en relación a las sustancias que causan alergias e intolerancias el 13 de julio de 2017. En virtud de la nueva legislación, se exige que se facilite siempre a los consumidores la información sobre la presencia de alérgenos en alimentos, en particular en alimentos no envasados.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color">Los términos que deben utilizarse para hacer referencia a los ovoproductos, los productos lácteos y los sulfitos, <strong>en el etiquetado de los productos vitivinícolas son:</strong></p>
+
+
+
+<ul>
+<li>Términos relativos a los sulfitos:«sulfitos» o «dióxido de azufre» </li>
+</ul>
+
+
+
+<ul>
+<li>Términos relativos a los huevos y los productos a base de huevo «huevo», «proteína de huevo», «ovoproducto», «lisozima de huevo» u «ovoalbúmina» </li>
+</ul>
+
+
+
+<ul>
+<li>Términos relativos a la leche y los productos lácteos: «leche», «productos lácteos», «caseína de leche» o «proteína de leche» </li>
+</ul>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color">En el Reglamento (UE) No 1169/2011 de 25 de octubre de 2011 se describe la obligación de mencionar <em>todo ingrediente o coadyuvante tecnológico [&#8230;] que cause alergias o intolerancias y se utilice en la fabricación o la elaboración de un alimento y siga estando presente en el producto acabado, aunque sea en una forma modificada;</em></p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color">Es por tanto obligatorio indicar si puede haber trazas de algún alergeno, aunque este sea derivado de procesos industriales. Debe ser visible en la etiqueta y estar traducido al idioma de los países a los que se exporta.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color">Por todo ello, un buen etiquetado en las botellas de bebidas alcohólicas es crucial para que las personas alérgicas o sensibles a ciertos ingredientes puedan evitar aquellos productos que puedan desencadenar una reacción. Los productores deben proporcionar información clara y precisa sobre los ingredientes y procesos de producción utilizados para crear sus productos. Esto permitirá que los consumidores tomen decisiones informadas sobre qué bebidas son seguras para ellos.</p>
+
+
+
+<p class="has-ast-global-color-7-color has-text-color">En conclusión, aunque las alergias a las bebidas alcohólicas no son muy comunes, pueden ser preocupantes para aquellos que las padecen. Las personas que tienen alergias alimentarias deben ser conscientes de los ingredientes y procesos de producción de las bebidas alcohólicas que consumen. Es importante leer las etiquetas cuidadosamente y hablar con su médico si experimenta síntomas alérgicos después de beber vino.</p>
+<p>La entrada <a rel="nofollow" href="/alergenos-en-el-vino-y-su-etiquetado/">Alérgenos en el vino y su etiquetado</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>¿Puedo poner las etiquetas digitales en mi web?</title>
+		<link>/puedo-poner-las-etiquetas-digitales-a-mi-web/</link>
+		
+		<dc:creator><![CDATA[olinta]]></dc:creator>
+		<pubDate>Wed, 17 May 2023 09:11:32 +0000</pubDate>
+				<category><![CDATA[etiquetado-digital]]></category>
+		<category><![CDATA[normativa]]></category>
+		<category><![CDATA[digital labeling]]></category>
+		<category><![CDATA[reglamento EU]]></category>
+		<guid isPermaLink="false">/?p=1825</guid>
+
+					<description><![CDATA[<p>No se puede usar una web regular para colgar la información nutricional y los ingredientes debido a la trazabilidad.</p>
+<p>La entrada <a rel="nofollow" href="/puedo-poner-las-etiquetas-digitales-a-mi-web/">¿Puedo poner las etiquetas digitales en mi web?</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-ast-global-color-8-color has-text-color">Buscando la manera más rápida de aplicar el nuevo reglamento europeo de etiquetado, uno podría pensar que es suficiente con añadir un apartado en la web de la bodega y allí añadir la información necesaria. Pero, ¿es posible? ¿Pueden los productores de vino pueden enlazar con sus propios sitios web/apps la información de la etiqueta?</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color"><strong>La respuesta es NO</strong>. Aqui le explicaremos el motivo por el cual no es posible una solución «casera».</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="561" height="285" src="/wp-content/uploads/2023/05/PROHIBIDO-track.png" alt="forbidden to track data" class="wp-image-1834" srcset="/wp-content/uploads/2023/05/PROHIBIDO-track.png 561w, /wp-content/uploads/2023/05/PROHIBIDO-track-300x152.png 300w" sizes="(max-width: 561px) 100vw, 561px" /><figcaption class="wp-element-caption"><sub><a href="http://www.freepik.com/">Designed by vectorjuice / Freepik</a> </sub></figcaption></figure>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">El Reglamento (UE) 2021/2117 del parlamento Europeo y del Consejo de 2 de diciembre de 2021 especifica:</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">«(80) [..] o en una etiqueta sujeta a este y de presentar la información nutricional completa y la lista de ingredientes por vía electrónica, <strong>a condición de que eviten toda recopilación o seguimiento de datos de los usuarios y no suministren información con fines de<br>comercialización</strong>. [..]</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Es decir, que mostrar la información se puede hacer únicamente cuando no se estén recopilando datos de los usuarios. Con una web regular, esto no es posible porque las páginas webs son precisamente herramientas que no solo muestran información, sino que también recopilan información de nuestros usuarios y clientes, por el mero hecho de estar en google, en las cookies.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color"><strong>¿Qué debo hacer entonces?</strong></p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Hay varias formas, pero ¿Por qué perder tiempo cuando puedes dedicarlo a tu producto? Lo más fácil (y económico) es usar herramientas existentes como Tapinpack, que garantiza que no hay trazabilidad ni recopilación de información del usuario, y al mismo tiempo ofrece una solución fácil a la problemática de tener que ofrecer la traducción en todos los idiomas de la Unión Europea.</p>
+<p>La entrada <a rel="nofollow" href="/puedo-poner-las-etiquetas-digitales-a-mi-web/">¿Puedo poner las etiquetas digitales en mi web?</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>¿Deben actualizarse las etiquetas para cumplir con el nuevo reglamento?¿Tiene carácter retroactivo?</title>
 		<link>/deben-actualizarse-las-etiquetas-para-cumplir-con-el-nuevo-reglamentotiene-caracter-retroactivo/</link>
 		
@@ -166,7 +594,7 @@
 
 
 
-<p class="has-ast-global-color-8-color has-text-color">La etiqueta de una botella de bebida alcohólica también es una herramienta de marketing y, por lo tanto, <strong>el diseño de la etiqueta debe ser atractivo e informativo</strong>. El diseño debe reflejar la personalidad del producto y la marca. La elección del color y la tipografía debe ser atractiva, pero también legible y fácil de entender. Es la cara visible del producto envasado que tiene la doble tarea de destacar frente a la competencia y de <strong>definir la marca</strong>. Actualmente con el etiquetado digital se logra una mayor hegemonía en el diseño al derivar información obligatoria fuera de la etiqueta física accesible a través de un código QR, evitando ruido visual y ofreciendo la posibilidad de que el diseño destaque y respire.</p>
+<p class="has-ast-global-color-8-color has-text-color">La etiqueta de una botella de bebida alcohólica también es una herramienta de marketing y, por lo tanto, <strong>el diseño de la etiqueta debe ser atractivo e informativo</strong>. El diseño debe reflejar la personalidad del producto y la marca. La elección del color y la tipografía debe ser atractiva, pero también legible y fácil de entender. Es la cara visible del producto envasado que tiene la doble tarea de destacar frente a la competencia y de <strong>definir la marca</strong>. Actualmente con el etiquetado digital&nbsp;se logra una mayor hegemonía en el diseño al derivar información obligatoria fuera de la etiqueta física accesible a través de un código QR, evitando ruido visual y ofreciendo la posibilidad de que el diseño destaque y respire.</p>
 
 
 
@@ -174,7 +602,7 @@
 
 
 
-<div class="wp-block-uagb-image alignright uagb-block-79257284 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-right"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg " src="/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg" alt="Bottle with blank question mark. By Dagnele at Pixabay" class="uag-image-1299" width="" height="" title="" loading="lazy"/></figure></div>
+<div class="wp-block-uagb-image alignright uagb-block-46dff0c6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-right"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg " sizes="(max-width: 480px) 150px" src="/wp-content/uploads/2023/04/dagnele-en-Pixabay-wine.jpg" alt="Bottle with blank question mark. By Dagnele at Pixabay" class="uag-image-1299" width="561" height="285" title="" loading="lazy"/></figure></div>
 
 
 
@@ -198,7 +626,7 @@
 
 
 
-<p class="has-ast-global-color-0-color has-text-color has-medium-font-size"><strong>Facilidad de uso</strong></p>
+<p class="has-ast-global-color-0-color has-text-color"><em>El tamaño de las indicaciones obligatorias y las indicación de determinadas sustancias o productos que causan alergias o intolerancias, deberá ser igual o superior a 1,2 mm, independientemente del formato de caracteres<br>utilizado.</em></p>
 
 
 
@@ -342,20 +770,56 @@
 				<category><![CDATA[Sin categorizar]]></category>
 		<guid isPermaLink="false">/?p=712</guid>
 
-					<description><![CDATA[<p>La Unión Europea tiene normativas muy estrictas en cuanto a la información que deben mostrar las bebidas alcohólicas para proteger la salud de los consumidores y garantizar una mayor transparencia en el mercado. A continuación, te explicamos qué información deben mostrar por ley las bebidas alcohólicas en la Unión Europea. Información nutricional Desde el 13 &#8230;</p>
+					<description><![CDATA[<p>La Unión Europea tiene normativas muy estrictas en cuanto a la información que deben mostrar las bebidas alcohólicas para proteger la salud de los consumidores y garantizar una mayor transparencia en el mercado. A continuación, te detallamos qué tiene que mostrarse en la etiqueta física y qué valores pueden mostrarse en la etiqueta digital. A &#8230;</p>
 <p class="read-more"> <a class="" href="/que-informacion-deben-mostrar-las-bebidas-alcoholicas-en-la-union-europea/"> <span class="screen-reader-text">¿Qué información deben mostrar las bebidas alcohólicas en la Unión Europea?</span> Leer más &#187;</a></p>
 <p>La entrada <a rel="nofollow" href="/que-informacion-deben-mostrar-las-bebidas-alcoholicas-en-la-union-europea/">¿Qué información deben mostrar las bebidas alcohólicas en la Unión Europea?</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p class="has-ast-global-color-8-color has-text-color">La Unión Europea tiene normativas muy estrictas en cuanto a la información que deben mostrar las bebidas alcohólicas para proteger la salud de los consumidores y garantizar una mayor transparencia en el mercado. A continuación, te explicamos qué información deben mostrar por ley las bebidas alcohólicas en la Unión Europea.</p>
+<p class="has-ast-global-color-8-color has-text-color">La Unión Europea tiene normativas muy estrictas en cuanto a la información que deben mostrar las bebidas alcohólicas para proteger la salud de los consumidores y garantizar una mayor transparencia en el mercado. </p>
 
 
 
-<p class="has-ast-global-color-8-color has-text-color"><strong>Información nutricional</strong></p>
+<p class="has-ast-global-color-8-color has-text-color">A continuación, te detallamos qué tiene que mostrarse en la etiqueta física y qué valores pueden mostrarse en la etiqueta digital. </p>
 
 
 
-<p class="has-ast-global-color-8-color has-text-color">Desde el 13 de diciembre de 2016, todas las bebidas alcohólicas vendidas en la Unión Europea deben mostrar información nutricional detallada en sus etiquetas. Esto incluye la cantidad de energía, grasas, grasas saturadas, hidratos de carbono, azúcares, proteínas y sal que contiene la bebida. Además, también se puede incluir información adicional sobre vitaminas y minerales.</p>
+<p class="has-ast-global-color-8-color has-text-color">A grandes rasgos, toda la información puede mostrarse en la etiqueta física, pero debe ser legible y, considerando que el espacio es limitado, probablemente todo no quepa. El uso de la etiqueta digital es, por lo tanto, ventajoso frente al uso unicamente de la etiqueta física.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Toda aquella información facultativa, es decir, que es opcional, puede mostrarse en la etiqueta digital, ofreciendo al consumidor una información más completa, más allá del cumplimiento obligatorio.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Veamos una tabla resumen que engloba las ultimas regulaciones:</p>
+
+
+
+<p class="has-small-font-size"><a href="https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32019R0033">Regulation (EC) 2019/33</a>, la <a href="https://trade.ec.europa.eu/access-to-markets/en/content/labelling-and-packaging">Europa Wine packing</a> y la <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32021R2117">Regulation (EU) 2021/2117</a></p>
+
+
+
+<figure class="wp-block-table is-style-regular"><table class="has-ast-global-color-8-color has-ast-global-color-2-background-color has-text-color has-background" style="border-width:4px"><tbody><tr><td><strong>Etiqueta Física</strong></td><td>&#8211; Categoria del producto vitícola<br>&#8211; Grado alcoholico volumétrico adquirido<br>&#8211; Denominación<br>-Grado alcohólico volumétrico adquirido<br>&#8211; Voumen nominal<br>&#8211; Procedencia<br>&#8211; Embotellador<br>&#8211; Importador<br>&#8211; Contenido de azúcar<sub> </sub>(para el vino espumoso, el vino espumoso gasificado, el vino espumoso de calidad o el vino espumoso aromático de calidad)<br>-Alergenos<br>-Intolerancias<br>&#8211; Energía*<br>&#8211; Registros de embotellado y sanidad<br>&#8211; El registro de exportación</td></tr><tr><td><strong>Etiqueta Digital</strong></td><td>&#8211; Información nutricional completa*<br>&#8211; Lista de ingredientes*</td></tr><tr><td><strong>Opcional<br>(</strong>Digital o Física<strong>)</strong></td><td>&#8211; Año de la cosecha<br>&#8211; Variedad de uva de vinificación utilizada<br>&#8211; Especialidades tradicionales garantizadas<br>&#8211; Contenido de azúcar (para el resto)<br>&#8211; Simbolos UE: símbolos de la Denominación de origen, indicaciones geográficas protegidas, etc.<br>&#8211; Métodos de Producción<br>&#8211; Nombre de la unidad geográfica menor o mayor que la definida por una D.O.</td></tr></tbody></table><figcaption class="wp-element-caption">*Cuando se opta por mostrar la Información Nutricional y la lista de ingredientes en la etiqueta digital, es obligatorio mostrar la <br>Energía en la etiqueta física</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Pueden encontrar información más detallada de la información obligatoria y facultativa en nuestro artículo: <a href="/requisitos-para-el-etiquetaje-de-vinos-y-espumosos/">Los requisitos para las etiquetas de los vinos y la reforma de la política agrícola de la UE en 2023</a></p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Es importante destacar que la información debe mostrarse en el idioma del país importador, con lo que la etiqueta digital supone una mayor ventaja y flexibilidad puesto que la información se traduce automaticamente.</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color"><strong>Información nutricional y lista de ingredientes</strong></p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">Tal y como indica el nuevo Reglamento Europeo, con el fin de facilitar a los consumidores un mayor nivel de información (artículo 119 del Reglamento (UE) n.o 1308/2013) las etiquetas deben incluir información nutricional y una lista de ingredientes. Esto incluye la cantidad de energía, grasas, grasas saturadas, hidratos de carbono, azúcares, proteínas y sal que contiene la bebida. Además, también se puede incluir información adicional sobre vitaminas y minerales.</p>
 
 
 
@@ -371,7 +835,7 @@
 
 
 
-<p class="has-ast-global-color-8-color has-text-color">Estas advertencias deben incluir la <strong>cantidad de alcohol </strong>que contiene la bebida, junto con mensajes que alerten sobre los peligros del consumo excesivo de alcohol, como por ejemplo: «El abuso del alcohol es perjudicial para la salud».</p>
+<p class="has-ast-global-color-8-color has-text-color">Las bebidas alcohólicas (más del 1,2 % vol.)  comercializados en el territorio francés deben llevar un mensaje sanitario destinado a las mujeres embarazadas. Puede tratarse de un pictograma de una mujer embarazada en un círculo tachado o el mensaje escrito: «el consumo de bebidas alcohólicas durante el embarazo, incluso en pequeñas cantidades, puede tener consecuencias graves para la salud del niño».</p>
 
 
 
@@ -379,7 +843,27 @@
 
 
 
-<p class="has-ast-global-color-8-color has-text-color">Desde el 13 de diciembre de 2014, todas las bebidas alcohólicas vendidas en la Unión Europea deben mostrar <strong>información sobre alergias e intolerancias en sus etiquetas</strong>. Esto incluye información sobre la presencia de alérgenos como el gluten, los cacahuetes, la leche y los huevos, y tiene como objetivo ayudar a las personas con alergias e intolerancias alimentarias a identificar los ingredientes que podrían causar una reacción alérgica.</p>
+<p class="has-ast-global-color-8-color has-text-color">El Nuevo Reglamento no substituye el reglamento anterior en este campo. </p>
+
+
+
+<p class="has-ast-global-color-0-color has-text-color">&lt;&lt;No obstante, la opción de no facilitar información nutricional completa en el envase o en una etiqueta sujeta a este no debe afectar al requisito vigente de enumerar en la etiqueta las sustancias que causan alergias o intolerancias.&nbsp;&gt;&gt;</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color"> Lo que significa que aunque se opte por el etiquetado digital, las alergias e intolerancias deberen estar presentes en la etiqueta física.</p>
+
+
+
+<p class="has-ast-global-color-0-color has-text-color">&lt;&lt;las sustancias o productos que puedan causar alergias o intolerancias y los términos que deben utilizarse para indicarlos en la etiqueta de los productos alimenticios son los que se enumeran en el anexo II de dicho Reglamento. &gt;&gt; Reglamento (UE) n.o 1169/2011</p>
+
+
+
+<p class="has-ast-global-color-8-color has-text-color">No sólo es obligatoria la presencia sino que debe mostrarse en multiples idiomas </p>
+
+
+
+<p class="has-ast-global-color-0-color has-text-color"><em>&lt;&lt;Los productos vitivinícolas producidos en la Unión se exportan a terceros países. A fin de garantizar que los consumidores de esos países comprenden la información relacionada con el producto que compran, ha de ser posible disponer de la etiqueta traducida a las lenguas del país importador&gt;&gt;</em> REGLAMENTO DELEGADO (UE) 2019/ 33</p>
 
 
 
@@ -391,11 +875,11 @@
 
 
 
-<p class="has-ast-global-color-8-color has-text-color">. Esto incluye la información sobre la región de producción, el país de origen y la variedad de uva utilizada en el caso de los vinos.</p>
+<p class="has-ast-global-color-8-color has-text-color">Esto incluye la información sobre la región de producción, el país de origen y la variedad de uva utilizada en el caso de los vinos.</p>
 
 
 
-<p class="has-ast-global-color-8-color has-text-color">En conclusión, la Unión Europea tiene normativas muy estrictas en cuanto a la información que deben mostrar las bebidas alcohólicas en sus etiquetas. Esta información incluye la información nutricional, las advertencias sanitarias, la información sobre alergias e intolerancias, el origen y el contenido. Estas medidas tienen como objetivo proteger la salud de los consumidores, promover un consumo responsable y garantizar la transparencia en el mercado.</p>
+<p class="has-ast-global-color-1-color has-text-color"><strong>En conclusión, la Unión Europea tiene normativas muy estrictas en cuanto a la información que deben mostrar las bebidas alcohólicas en sus etiquetas. Esta información incluye la información nutricional, las advertencias sanitarias, la información sobre alergias e intolerancias, el origen y el contenido. Estas medidas tienen como objetivo proteger la salud de los consumidores, promover un consumo responsable y garantizar la transparencia en el mercado.</strong></p>
 <p>La entrada <a rel="nofollow" href="/que-informacion-deben-mostrar-las-bebidas-alcoholicas-en-la-union-europea/">¿Qué información deben mostrar las bebidas alcohólicas en la Unión Europea?</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
 ]]></content:encoded>
 					
@@ -462,81 +946,6 @@
 
 <p>En conclusión, el Nutriscore es un sistema de etiquetado nutricional que clasifica los productos alimenticios según su calidad nutricional. Se basa en un algoritmo que tiene en cuenta la cantidad de nutrientes beneficiosos y perjudiciales presentes en un producto, y se traduce en una letra y un color. Es una herramienta útil para los consumidores y puede incentivar a los fabricantes de alimentos a mejorar la calidad nutricional de sus productos.</p>
 <p>La entrada <a rel="nofollow" href="/que-es-nutriscore/">¿Qué es NUTRISCORE?</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>¿Qué debes saber sobre el nuevo etiquetado de las bebidas alcohólicas?</title>
-		<link>/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/</link>
-		
-		<dc:creator><![CDATA[olinta]]></dc:creator>
-		<pubDate>Thu, 02 Mar 2023 13:50:20 +0000</pubDate>
-				<category><![CDATA[normativa]]></category>
-		<guid isPermaLink="false">/?p=312</guid>
-
-					<description><![CDATA[<p>Si eres productor o consumidor de bebidas alcohólicas, debes estar al tanto de la nueva normativa europea 2023 que regula el etiquetado de estos productos. Esta normativa tiene como objetivo mejorar la información que se facilita al consumidor y evitar prácticas engañosas o confusas por parte de las empresas fabricantes. ¿Qué información debe incluir la &#8230;</p>
-<p class="read-more"> <a class="" href="/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/"> <span class="screen-reader-text">¿Qué debes saber sobre el nuevo etiquetado de las bebidas alcohólicas?</span> Leer más &#187;</a></p>
-<p>La entrada <a rel="nofollow" href="/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/">¿Qué debes saber sobre el nuevo etiquetado de las bebidas alcohólicas?</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="margin-bottom:var(--wp--preset--spacing--40);grid-template-columns:44% auto"><figure class="wp-block-media-text__media"><img decoding="async" width="561" height="285" src="/wp-content/uploads/2023/03/WINE-BOOLE.png" alt="" class="wp-image-500 size-full" srcset="/wp-content/uploads/2023/03/WINE-BOOLE.png 561w, /wp-content/uploads/2023/03/WINE-BOOLE-300x152.png 300w" sizes="(max-width: 561px) 100vw, 561px" /></figure><div class="wp-block-media-text__content">
-<p class="has-ast-global-color-7-color has-text-color">Si eres productor o consumidor de bebidas alcohólicas, debes estar al tanto de la nueva normativa europea 2023 que regula el etiquetado de estos productos. Esta normativa tiene como objetivo mejorar la información que se facilita al consumidor y evitar prácticas engañosas o confusas por parte de las empresas fabricantes.</p>
-</div></div>
-
-
-
-<h4 class="has-ast-global-color-1-color has-text-color">¿Qué información debe incluir la etiqueta de una bebida alcohólica?</h4>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">Según la nueva normativa, todas las bebidas alcohólicas con un volumen de alcohol mayor al 1,2% deben incluir en la etiqueta los siguientes datos: </p>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">&#8211; Nombre o <strong>denominación </strong>de la bebida: debe indicar el tipo de bebida que es (vino, cerveza, licor, etc.). </p>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">&#8211; Nombre del <strong>fabricante o la razón social del mismo</strong>: debe identificar claramente quién ha elaborado la bebida y dónde se encuentra su sede o establecimiento. </p>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">&#8211; <strong>Si contiene alérgenos</strong> o si puede causar reacciones adversas: debe advertir al consumidor si la bebida contiene algún ingrediente que pueda provocar una reacción alérgica o intolerancia (como sulfitos, gluten, lactosa, etc.). </p>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">&#8211; Un símbolo que indique el <strong>contenido alcohólico bajo (entre 2% y 6%) o alto (más de 6%)</strong>: debe informar al consumidor sobre el grado de alcohol de la bebida y sus posibles efectos en la salud.</p>
-
-
-
-<h4 class="has-ast-global-color-1-color has-text-color">¿Qué beneficios tiene esta normativa para los consumidores?</h4>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">Esta normativa tiene varios beneficios para los consumidores:</p>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">Por un lado eleva el nivel de protección y disminuye errores en la percepción de la bebida debido a un etiquetado incorrecto: evita que el consumidor se confunda sobre el tipo, origen o calidad de la bebida que compra o consume.</p>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">También <strong>busca evitar prácticas engañosas de las empresas fabricantes de bebidas alcohólicas</strong>: impide que las empresas utilicen nombres, imágenes o reclamos falsos o engañosos para atraer a los consumidores o inducirlos a error.</p>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">Además aboga por una m<strong>ayor transparencia en el mercado y la existencia de una competencia leal</strong>: garantiza que todos los productores y distribuidores cumplan con las mismas reglas y condiciones y respeten los derechos e intereses de los consumidores.</p>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">La idea sobre la misma es que<strong> permite tomar decisiones más informadas y conscientes sobre la salud</strong>: al incluir la información nutricional y los alérgenos, los consumidores pueden conocer mejor el valor energético, los nutrientes y las sustancias que pueden afectar a su salud (como azúcares, grasas saturadas o sal) que contiene cada bebida.</p>
-
-
-
-<p class="has-ast-global-color-7-color has-text-color">Si quieres saber más sobre la solución que Tapinpack ofrece para el cumplimiento de esta normativa, no dudes en contactarnos.</p>
-<p>La entrada <a rel="nofollow" href="/que-debes-saber-sobre-el-nuevo-etiquetado-de-las-bebidas-alcoholicas/">¿Qué debes saber sobre el nuevo etiquetado de las bebidas alcohólicas?</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
 ]]></content:encoded>
 					
 		
