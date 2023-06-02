@@ -12,7 +12,7 @@
 	<atom:link href="/tag/reglamento-eu/feed/" rel="self" type="application/rss+xml" />
 	<link>/tag/reglamento-eu/</link>
 	<description>Etiquetaje digital</description>
-	<lastBuildDate>Fri, 02 Jun 2023 06:29:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jun 2023 08:25:45 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,8 +28,8 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Los requisitos para las etiquetas de los vinos y la reforma de la política agrícola de la UE en 2023</title>
-		<link>/requisitos-para-el-etiquetaje-de-vinos-y-espumosos/</link>
+		<title>¿Qué información es obligatoria en los vinos? Nuevo reglamento de la UE para 2023</title>
+		<link>/normativa-que-informacion-es-obligatoria-con-el-nuevo-reglamento-de-la-ue/</link>
 		
 		<dc:creator><![CDATA[olinta]]></dc:creator>
 		<pubDate>Mon, 29 May 2023 14:43:53 +0000</pubDate>
@@ -39,8 +39,8 @@
 		<guid isPermaLink="false">/?p=1862</guid>
 
 					<description><![CDATA[<p>Los requisitos de etiquetado han cambiado debido al nuevo Reglamento (UE) 2021/2117. Todas las botellas de vino que se vendan en la UE, indistintamente del país de origen, deberán añadir la información nutricional y la lista de ingredientes. Esto será obligatorio a partir del 8 de diciembre de 2023 y complementarán a la información sobre &#8230;</p>
-<p class="read-more"> <a class="" href="/requisitos-para-el-etiquetaje-de-vinos-y-espumosos/"> <span class="screen-reader-text">Los requisitos para las etiquetas de los vinos y la reforma de la política agrícola de la UE en 2023</span> Leer más &#187;</a></p>
-<p>La entrada <a rel="nofollow" href="/requisitos-para-el-etiquetaje-de-vinos-y-espumosos/">Los requisitos para las etiquetas de los vinos y la reforma de la política agrícola de la UE en 2023</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
+<p class="read-more"> <a class="" href="/normativa-que-informacion-es-obligatoria-con-el-nuevo-reglamento-de-la-ue/"> <span class="screen-reader-text">¿Qué información es obligatoria en los vinos? Nuevo reglamento de la UE para 2023</span> Leer más &#187;</a></p>
+<p>La entrada <a rel="nofollow" href="/normativa-que-informacion-es-obligatoria-con-el-nuevo-reglamento-de-la-ue/">¿Qué información es obligatoria en los vinos? Nuevo reglamento de la UE para 2023</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-full"><img decoding="async" width="858" height="443" src="/wp-content/uploads/2023/05/Etiquetado-Digital-Tapinpack.png" alt="" class="wp-image-1885" srcset="/wp-content/uploads/2023/05/Etiquetado-Digital-Tapinpack.png 858w, /wp-content/uploads/2023/05/Etiquetado-Digital-Tapinpack-300x155.png 300w, /wp-content/uploads/2023/05/Etiquetado-Digital-Tapinpack-768x397.png 768w" sizes="(max-width: 858px) 100vw, 858px" /></figure>
@@ -75,7 +75,7 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color">Información Nutricional y lista de ingredientes</h4>
+<h4>Información Nutricional y lista de ingredientes</h4>
 
 
 
@@ -87,7 +87,7 @@
 
 
 
-<h4 class="has-text-align-left has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Categoría del producto vitícola </mark></h4>
+<h4 class="has-text-align-left">Categoría del producto vitícola </h4>
 
 
 
@@ -105,7 +105,7 @@
 
 
 
-<h4><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">El grado alcohólico volumétrico adquirido </mark></h4>
+<h4>El grado alcohólico volumétrico adquirido </h4>
 
 
 
@@ -125,11 +125,11 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Procedencia</mark></h4>
-
-
-
 <p class="has-ast-global-color-8-color has-text-color">Puede complementar el punto anterior o aparecer solo. Esta «indicación de la procedencia» busca garantizar la trazabilidad. Puede completar la denominación de venta, o aparecer sola. Los términos utilizados variarán entre: «vino de […]», «producido en […]», «producto de […]» o «sekt de […]», «vino de la Unión Europea» o «mezcla de vinos de diferentes países de la Unión Europea», etc. o expresiones equivalentes, según el origen del Vino.</p>
+
+
+
+<h4>Procedencia</h4>
 
 
 
@@ -157,7 +157,7 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Alergias o intolerancias</mark></h4>
+<h4>Alergias o intolerancias</h4>
 
 
 
@@ -169,7 +169,7 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Volumen nominal</mark></h4>
+<h4>Volumen nominal</h4>
 
 
 
@@ -185,7 +185,7 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Contenido del azúcar</mark></h4>
+<h4>Contenido del azúcar</h4>
 
 
 
@@ -193,7 +193,7 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Fecha de consumo preferente</mark></h4>
+<h4>Fecha de consumo preferente</h4>
 
 
 
@@ -201,7 +201,7 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Producido mediante la adición de dióxido de carbono</mark></h4>
+<h4>Producido mediante la adición de dióxido de carbono</h4>
 
 
 
@@ -209,7 +209,7 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Mensaje sanitario ( productos comercializados en territorio francés)</mark></h4>
+<h4>Mensaje sanitario ( productos comercializados en territorio francés)</h4>
 
 
 
@@ -233,7 +233,7 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Variedad de uva de vinificación utilizada</mark></h4>
+<h4>Variedad de uva de vinificación utilizada</h4>
 
 
 
@@ -245,7 +245,7 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Especialidades tradicionales garantizadas</mark></h4>
+<h4>Especialidades tradicionales garantizadas</h4>
 
 
 
@@ -257,7 +257,7 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Contenido de azúcar </mark></h4>
+<h4>Contenido de azúcar </h4>
 
 
 
@@ -269,20 +269,20 @@
 
 
 
-<h4 class="has-ast-global-color-8-color has-text-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-ast-global-color-8-color">Métodos de producción</mark></h4>
+<h4>Métodos de producción</h4>
 
 
 
-<p class="has-ast-global-color-8-color has-text-color">Términos que se refieren a determinados métodos como: <strong><em>Fermentado en barrica</em>, <em>Criado en barrica</em> y <em>Envejecido en barrica</em></strong><em>. </em>Solamente se podrán utilizar para designar un producto vitivinícola acogido a una denominación de origen o indicación geográfica protegida o a una indicación geográfica de un tercer país que haya sido fermentado, criado o envejecido en recipientes de madera.&nbsp;</p>
+<p class="has-ast-global-color-8-color has-text-color">Términos que se refieren a determinados métodos como: <strong>fermentado en barrica, criado en barrica y envejecido en barrica</strong><em>. </em>Solamente se podrán utilizar para designar un producto vitivinícola acogido a una denominación de origen o indicación geográfica protegida o a una indicación geográfica de un tercer país que haya sido fermentado, criado o envejecido en recipientes de madera. </p>
 
 
 
-<p class="has-ast-global-color-8-color has-text-color"><strong>Nombre de otra <mark style="background-color:var(--ast-global-color-2)" class="has-inline-color has-ast-global-color-8-color">unidad geográfica menor o más amplia que la zona abarcada por la denominación de origen o la indicación geográfica</mark></strong>, en el caso de los vinos acogidos a una denominación de origen protegida o una indicación geográfica protegida,&nbsp;</p>
+<p class="has-ast-global-color-8-color has-text-color">Nombre de otra unidad geográfica menor o más amplia que la zona abarcada por la denominación de origen o la indicación geográfica, en el caso de los vinos acogidos a una denominación de origen protegida o una indicación geográfica protegida, </p>
 
 
 
-<p class="has-white-color has-ast-global-color-0-background-color has-text-color has-background">Todo vino que cumpla los requisitos<strong> anteriores al nuevo Reglamento</strong> Europeo 2021/2117 de etiquetado antes del 8 de diciembre de 2023 y que hayan sido producidos y etiquetados antes de esa fecha <strong>podrán seguir comercializando</strong> hasta que se agoten las existencias. Es decir, que será obligatorio sólo después de esta fecha y <strong>no se aplicará retroactividad</strong>.</p>
-<p>La entrada <a rel="nofollow" href="/requisitos-para-el-etiquetaje-de-vinos-y-espumosos/">Los requisitos para las etiquetas de los vinos y la reforma de la política agrícola de la UE en 2023</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
+<p class="has-ast-global-color-7-color has-ast-global-color-2-background-color has-text-color has-background">Todo vino que cumpla los requisitos<strong> anteriores al nuevo Reglamento</strong> Europeo 2021/2117 de etiquetado antes del 8 de diciembre de 2023 y que hayan sido producidos y etiquetados antes de esa fecha <strong>podrán seguir comercializando</strong> hasta que se agoten las existencias. Es decir, que será obligatorio sólo después de esta fecha y <strong>no se aplicará retroactividad</strong>.</p>
+<p>La entrada <a rel="nofollow" href="/normativa-que-informacion-es-obligatoria-con-el-nuevo-reglamento-de-la-ue/">¿Qué información es obligatoria en los vinos? Nuevo reglamento de la UE para 2023</a> se publicó primero en <a rel="nofollow" href="/">Tapinpack by tictap</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -121,13 +121,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/alergenos-en-el-vino-y-su-etiquetado/</loc>
-		<lastmod>2023-05-18T23:57:01+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/wine_allergen_labelling_2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/puedo-poner-las-etiquetas-digitales-a-mi-web/</loc>
 		<lastmod>2023-05-29T13:43:54+00:00</lastmod>
 		<image:image>
@@ -165,13 +158,20 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/requisitos-para-el-etiquetaje-de-vinos-y-espumosos/</loc>
-		<lastmod>2023-06-02T06:29:37+00:00</lastmod>
+		<loc>/normativa-que-informacion-es-obligatoria-con-el-nuevo-reglamento-de-la-ue/</loc>
+		<lastmod>2023-06-02T08:25:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/pac.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/pac-e1685694643438.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Etiquetado-Digital-Tapinpack.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/normativa-alergenos-en-el-vino-y-su-etiquetado/</loc>
+		<lastmod>2023-06-02T08:31:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/wine_allergen_labelling_2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
