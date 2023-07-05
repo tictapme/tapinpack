@@ -1,6 +1,6 @@
 #!/bin/bash
 git add static
-git ci -am "Updates static"
+git commit -am "Updates static"
 echo "Committed static"
 # set current branch in a variable and then push against it
 current_branch=$(git branch | grep \* | cut -d ' ' -f2)
