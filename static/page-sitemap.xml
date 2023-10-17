@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-06-09T10:08:27+00:00</lastmod>
+		<lastmod>2023-10-11T11:59:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
@@ -46,7 +46,7 @@
 			<image:loc>/wp-content/uploads/2023/04/PlataformasExternas.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/platform-mockup-pink.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/platform-mockup-pink.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
@@ -89,8 +89,12 @@
 		<lastmod>2023-05-08T11:05:38+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/legal/</loc>
+		<lastmod>2023-06-08T09:20:28+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/cumple-con-el-reglamento-europeo/</loc>
-		<lastmod>2023-05-08T13:02:54+00:00</lastmod>
+		<lastmod>2023-06-26T06:54:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
@@ -109,57 +113,11 @@
 	</url>
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2023-06-02T05:55:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blog/</loc>
-		<lastmod>2023-06-08T09:18:37+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blog/</loc>
-		<lastmod>2023-06-08T09:18:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/contacto/</loc>
-		<lastmod>2023-06-08T09:19:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/phone.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/email.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/address.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/contacto/</loc>
-		<lastmod>2023-06-08T09:19:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/phone.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/email.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/address.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
-		</image:image>
+		<lastmod>2023-07-11T11:02:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-06-08T09:19:45+00:00</lastmod>
+		<lastmod>2023-08-07T08:24:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
@@ -214,7 +172,7 @@
 	</url>
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-06-08T09:20:07+00:00</lastmod>
+		<lastmod>2023-08-07T08:25:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
 		</image:image>
@@ -268,12 +226,54 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/legal/</loc>
-		<lastmod>2023-06-08T09:20:28+00:00</lastmod>
+		<loc>/blog/</loc>
+		<lastmod>2023-08-07T08:27:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blog/</loc>
+		<lastmod>2023-08-07T08:27:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/contacto/</loc>
-		<lastmod>2023-06-08T11:53:34+00:00</lastmod>
+		<lastmod>2023-10-11T08:53:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/phone.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/email.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/address.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contacto/</loc>
+		<lastmod>2023-10-11T11:56:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/phone.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/email.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/address.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_check_sucess.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/form_failed_action.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contacto/</loc>
+		<lastmod>2023-10-11T11:57:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/phone.svg</image:loc>
 		</image:image>
